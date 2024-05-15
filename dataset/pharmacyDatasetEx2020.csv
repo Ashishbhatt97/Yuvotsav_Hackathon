@@ -1,0 +1,57 @@
+Here's a mock dataset for "Kalpartu Drug Store" with 100 unique drug names, their types, and expired quantities for each month of the year:
+
+```plaintext
+drug_name,drug_type,year,January_expired,February_expired,March_expired,April_expired,May_expired,June_expired,July_expired,August_expired,September_expired,October_expired,November_expired,December_expired
+Amoxicillin,Antibiotic,2020,1,2,1,0,1,0,0,1,2,3,4,5
+Lisinopril,Antihypertensive,2020,2,1,2,1,0,1,0,0,1,2,3,4
+Metformin,Antidiabetic,2020,3,0,1,2,1,0,1,0,0,1,2,3
+Amlodipine,Antihypertensive,2020,0,3,0,1,2,1,0,1,0,0,1,2
+Albuterol,Bronchodilator,2020,1,0,3,0,1,2,1,0,1,0,0,1
+Gabapentin,Anticonvulsant,2020,2,1,0,3,0,1,2,1,0,1,0,0
+Hydrochlorothiazide,Diuretic,2020,0,2,1,0,3,0,1,2,1,0,1,0
+Simvastatin,Antilipemic,2020,1,0,2,1,0,3,0,1,2,1,0,1
+Cetirizine,Antihistamine,2020,2,1,0,2,1,0,3,0,1,2,1,0
+Warfarin,Anticoagulant,2020,0,2,1,0,2,1,0,3,0,1,2,1
+Insulin Glargine,Antidiabetic,2020,1,0,2,1,0,2,1,0,3,0,1,2
+Salbutamol,Bronchodilator,2020,2,1,0,2,1,0,2,1,0,3,0,1
+Ramipril,Antihypertensive,2020,0,2,1,0,2,1,0,2,1,0,3,0
+Clopidogrel,Antiplatelet,2020,1,0,2,1,0,2,1,0,2,1,0,3
+Sertraline,Antidepressant,2020,2,1,0,2,1,0,2,1,0,2,1,0
+Loratadine,Antihistamine,2020,0,2,1,0,2,1,0,2,1,0,2,1
+Omeprazole,Proton Pump Inhibitor,2020,1,0,2,1,0,2,1,0,2,1,0,2
+Ciprofloxacin,Fluoroquinolone,2020,2,1,0,2,1,0,2,1,0,2,1,0
+Escitalopram,Antidepressant,2020,0,2,1,0,2,1,0,2,1,0,2,1
+Losartan,Antihypertensive,2020,1,0,2,1,0,2,1,0,2,1,0,2
+Prednisone,Corticosteroid,2020,2,1,0,2,1,0,2,1,0,2,1,0
+Montelukast,Leukotriene Receptor Antagonist,2020,0,2,1,0,2,1,0,2,1,0,2,1
+Fluoxetine,Selective Serotonin Reuptake Inhibitor,2020,1,0,2,1,0,2,1,0,2,1,0,2
+Tramadol,Analgesic,2020,2,1,0,2,1,0,2,1,0,2,1,0
+Alprazolam,Benzodiazepine,2020,0,2,1,0,2,1,0,2,1,0,2,1
+Hydroxyzine,Antihistamine,2020,1,0,2,1,0,2,1,0,2,1,0,2
+Ranitidine,H2 Blocker,2020,2,1,0,2,1,0,2,1,0,2,1,0
+Diazepam,Benzodiazepine,2020,0,2,1,0,2,1,0,2,1,0,2,1
+Enalapril,Antihypertensive,2020,1,0,2,1,0,2,1,0,2,1,0,2
+Paroxetine,Selective Serotonin Reuptake Inhibitor,2020,2,1,0,2,1,0,2,1,0,2,1,0
+Tamsulosin,Alpha Blocker,2020,0,2,1,0,2,1,0,2,1,0,2,1
+Duloxetine,Antidepressant,2020,1,0,2,1,0,2,1,0,2,1,0,2
+Venlafaxine,Antidepressant,2020,2,1,0,2,1,0,2,1,0,2,1,0
+Lisinopril,Antihypertensive,2020,0,2,1,0,2,1,0,2,1,0,2,1
+Clonazepam,Benzodiazepine,2020,1,0,2,1,0,2,1,0,2,1,0,2
+Oxycodone,Opioid Analgesic,2020,2,1,0,2,1,0,2,1,0,2,1,0
+Topiramate,Anticonvulsant,2020,0,2,1,0,2,1,0,2,1,0,2,1
+Glimepiride,Antidiabetic,2020,1,0,2,1,0,2,1,0,2,1,0,2
+Bupropion,Antidepressant,2020,2,1,0,2,1,0,2,1,0,2,1,0
+Naproxen,Nonsteroidal Anti-inflammatory,2020,0,2,1,0,2,1,0,2,1,0,2,1
+Pantoprazole,Proton Pump Inhibitor,2020,1,0,2,1,0,2,1,0,2,1,0,2
+Risperidone,Antipsychotic,2020,2,1,0,2,1,0,2,1,0,2,1,0
+Carvedilol,Beta Blocker,2020,0,2,1,0,2,1,0,2,1,0,2,1
+Valacyclovir,Antiviral,2020,1,0,2,1,0,2,1,0,2,1,0,2
+Aripiprazole,Antipsychotic,2020,2,1,0,2,1,0,2,1,0,2,1,0
+Celecoxib,Nonsteroidal Anti-inflammatory,2020,0,2,1,0,2,1,0,2,1,0,2,1
+Lamotrigine,Anticonvulsant,2020,1,0,2,1,0,2,1,0,2,1,0,2
+Sildenafil,Erectile Dysfunction Agent,2020,2,1,0,2,1,0,2,1,0,2,1,0
+Finasteride,5-alpha Reductase Inhibitor,2020,0,2,1,0,2,1,0,2,1,0,2,1
+Zolpidem,Insomnia Treatment,2020,1,0,2,1,0,2,1,0,2,1,0,2
+Quetiapine,Antipsychotic,2020,2,1,0,2,1,0,2,1,0,2,1,0
+Furosemide,Diuretic,2020,0,2,1,0,2,1,0,2,1,0,2,1
+Amphetamine,Stimulant,2020,1,0,2,1,0,2,

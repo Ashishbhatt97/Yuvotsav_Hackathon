@@ -1,0 +1,1001 @@
+patient_id,first_name,last_name,age,gender,date_of_birth,Daignosis,prescription
+1,Stephannie,Simyson,48,Female,10/8/1915,Anterior cord syndrome at T2-T6,Doxycycline hyclate
+2,Aldus,Bowton,39,Male,6/4/1938,Displaced fracture of proximal phalanx of other finger,THUJA OCCIDENTALIS
+3,Crystal,Uzielli,59,Bigender,7/17/2009,Military operations involving biological weapons,Camphor
+4,Daisy,Lindenboim,33,Female,1/1/1932,Underdosing of unspecified narcotics,Aluminum Zirconium Trichlorohydrex Gly
+5,Fletcher,Krysztofiak,22,Male,6/25/1910,"Matern care for disproprtn of mix matern & fetl origin, fts5",PODOPHYLLUM
+6,Turner,Matchitt,95,Male,2/10/1904,"Displ commnt fx shaft of ulna, r arm, 7thG",MENTHOL
+7,Becky,Cromb,30,Female,5/13/2010,"Unspecified open wound, unspecified lower leg, subs encntr",APIS MELLIFERA VENOM
+8,Kirsteni,Thunnercliffe,74,Female,12/7/1939,"Unspecified fracture of left calcaneus, sequela",Natural Medicine
+9,Lissi,Aers,42,Female,5/15/2019,"Unsp fracture of unsp lower leg, subs for clos fx w malunion","Acetaminophen, Dextromethorphan HBr, Doxylamine succinate"
+10,Ricard,Dockray,1,Male,3/15/1947,Inj flexor musc/fasc/tend and unsp finger at wrs/hnd lv,Aluminum Chloride
+11,Marj,Longfut,63,Polygender,3/4/2017,"Oth diabetes with diabetic macular edema, resolved fol trtmt",Titanium dioxide
+12,Lorin,Divver,49,Male,12/21/1907,"Nondisp spiral fx shaft of unsp femr, 7thB",MATRICARIA RECUTITA ATROPA BELLADONNA ROOT TOBACCO LEAF
+13,Fredrick,Emslie,69,Male,10/1/1924,Toxic effects of halogen derivatives of aliphatic hydrocrb,clopidogrel bisulfate
+14,Guillema,Kilbride,63,Female,6/20/1981,Driver of bus injured in collision w oth and unsp mv nontraf,Foaming Antibacterial Hand Soap with Aloe and Vitamin E
+15,Saunder,Purrington,94,Male,4/13/1949,"Somnolence, stupor and coma","OCTINOXATE, OCTOCRYLENE, and TITANIUM DIOXIDE"
+16,Waiter,Heathcoat,72,Male,5/4/1938,"Nondisp fx of shaft of unsp MC bone, 7thD",Benazepril Hydrochloride
+17,Frederico,Trudgeon,9,Male,3/25/1953,"Nondisplaced fracture of body of left talus, sequela",Fosinopril Sodium and Hydrochlorothiazide
+18,Trev,Lorenzo,10,Male,1/11/1939,"Sltr-haris Type II physeal fx upper end of humerus, unsp arm",Insulin human
+19,Brewer,Zannutti,7,Male,8/31/1917,"Chronic tubotympanic suppurative otitis media, right ear",Sodium Sulfacetamide
+20,Kellen,Orehead,15,Male,6/3/1984,Torus fracture of upper end of left radius,ALUMINUM CHLOROHYDRATE
+21,Sim,Filyakov,106,Male,10/1/1921,"Renal tubulo-interstitial disease, unspecified",Colchicine
+22,Shir,Abate,67,Female,5/14/1907,"Foreign body in vulva and vagina, subsequent encounter",pravastatin sodium
+23,Toni,Clingoe,11,Genderfluid,2/2/1987,"Total perforations of tympanic membrane, right ear",Titanium Dioxide
+24,Hubert,Roulston,88,Male,12/28/1968,"Unsp inj flxr musc/fasc/tend r rng fngr at wrs/hnd lv, sqla",Acetaminophen
+25,Zonda,Wilden,91,Female,1/5/1929,"Breakdown (mechanical) of cardiac electrode, init encntr",methylphenidate hydrochloride
+26,Lorens,Dowley,49,Male,1/9/1969,"Sprain of unsp collateral ligament of right knee, subs",Neomycin Sulfate
+27,Bruce,Hanner,42,Male,12/21/1941,Non-prs chronic ulcer skin/ sites limited to brkdwn skin,trifluoperazine hydrochloride
+28,Malissia,Tampin,4,Female,2/21/1915,"Surgical instrumnt, materials and orth devices assoc w incdt",Amoxicillin
+29,Sutton,Geram,37,Male,4/14/1918,"Blister (nonthermal) of right elbow, sequela",Cedar Red
+30,Pauly,Sleet,1,Female,6/5/1979,"Solitary bone cyst, other site",mineral oil
+31,Cami,Sleet,114,Female,7/23/1984,"Unstable burst fracture of third lumbar vertebra, init",Cefprozil
+32,Hamlen,Shaughnessy,29,Male,11/29/1938,Congenital pneumonia due to other bacterial agents,epoprostenol sodium
+33,Augy,Worters,1,Genderfluid,12/1/1911,"Ped on oth ped convey colliding w statnry obj, sequela","OCTINOXATE, OCTISALATE, and AVOBENZONE"
+34,Kinsley,Wallentin,67,Male,9/15/1951,"Tributary (branch) retinal vein occlusion, right eye",Acetaminophen and Chlorpheniramine Maleate
+35,Gorden,Myford,111,Male,7/7/1962,"Post disp fx of sternal end l clavicle, 7thD",Wheat Smut
+36,Yance,Maudlin,68,Male,2/3/1993,"Recur cholesteatoma of postmastoidectomy cavity, right ear",Trichothecium roseum
+37,Thorpe,Giacaponi,80,Male,6/3/1902,"Oth disrd of synovium and tendon, unspecified shoulder",Bisoprolol Fumarate
+38,Boy,Jovey,6,Male,9/18/2020,"External constriction, right lesser toe(s)",BENZTROPINE MESYLATE
+39,Sheelah,Caple,103,Female,6/9/1967,"Unsp fracture of T7-T8 vertebra, subs for fx w nonunion",Bumetanide
+40,Keen,Ambrus,100,Male,8/1/1904,Athscl nonbiological bypass of the extremities w gangrene,Octinoxate and Octisalate
+41,Isa,Bothams,42,Male,9/9/1977,Cardiomegaly,CHLOROXYLENOL
+42,Pennie,Pawlett,67,Female,6/11/1971,"Burn of internal genitourinary organs, subsequent encounter",PREGABALIN
+43,Georg,Delgado,91,Male,12/31/2005,"Burn of right eye and adnexa, part unspecified, sequela",Aluminum zirconium tetrachlorohydrex gly
+44,Kalina,Moyne,6,Female,9/24/1942,"Displaced dome fx left acetabulum, subs for fx w routn heal",Valacyclovir Hydrochloride
+45,Maximo,Assandri,118,Male,8/12/1948,"Mech compl of int fix of right humerus, init",Trazodone Hydrochloride
+46,Barron,Fillary,92,Male,3/13/1904,"Corros first deg mult left fngr (nail), not inc thumb, subs",Duck Feathers
+47,Quincey,Ablewhite,102,Male,7/8/1967,Varicos vn of l low extrem w ulc of calf and inflammation,lidocaine hydrochloride anhydrous and epinephrine
+48,Armin,MacRonald,5,Male,3/17/1948,"Unsp fx r patella, subs for opn fx type 3A/B/C w nonunion","Melilotus officinalis, Spigelia anthelmia, Allium cepa, Belladonna, Bryonia, Cimicifuga racemosa, Gelsemium sempervirens, Glonoinum, Magnesia phosphorica, Nux vomica,"
+49,Lisbeth,Rosser,11,Female,5/10/1919,Kitchen in apartment as place,"OCTINOXATE, OXYBENZONE, OCTISALATE, AVOBENZONE"
+50,Dan,Frearson,75,Male,6/23/1963,"Other dislocation of unspecified knee, subsequent encounter",Air
+51,Erny,Skippings,97,Male,1/20/1929,"Drvr of pk-up/van inj in clsn w statnry object in traf, subs","Arsenicum album, Hepar sulphuris calcareum, Kali bichromicum, Lycopodium clavatum, Mercurius solubilis, Natrum muriaticum, Phosphorus, Pulsatilla, Sepia,"
+52,Wittie,Bernardino,106,Male,9/8/1948,"Toxic effect of venom of arthropod, self-harm, init",Phentermine Hydrochloride
+53,Gib,Standingford,29,Male,3/18/1958,"Toxic effect of venom of other spider, assault, subs encntr",Ethyl Alcohol
+54,Joell,Tysack,53,Female,3/19/1952,Other viral diseases complicating the puerperium,"Calendula Officinalis Flower, Hydrated Silica, and Allylthiourea"
+55,Rozina,Ogley,21,Female,11/15/1967,Furuncle of face,cetirizine Hydrochloride
+56,Jereme,Chansonne,49,Male,11/2/1970,"Extrn constrict of left eyelid and perioculr area, sequela",Haloperidol Decanoate
+57,Teirtza,Kerridge,69,Female,6/27/1903,Ophthalmic devices associated with adverse incidents,Viscum Crataegus
+58,Dillon,Horsewood,35,Male,9/5/2017,Driver of bus injured in collision w hv veh in traf,ONDANSETRON HYDROCHLORIDE
+59,Taylor,Rubke,26,Male,12/16/1968,"Nondisp spiral fx shaft of rad, unsp arm, 7thM","Avobenzone, Octinoxate, and Octisalate"
+60,Zonda,Keat,4,Female,7/15/1993,"Nondisp fx of l tibial tuberosity, 7thF",Ursodiol
+61,Bud,Egle,74,Male,1/28/2012,"Toxic effect of ethanol, accidental (unintentional), subs","OCTINOXATE, OCTOCRYLENE, OCTISALATE, and OXYBENZONE"
+62,Darcey,Chalcroft,55,Female,5/11/1944,Anterior cord syndrome at C3 level of cervical spinal cord,darbepoetin alfa
+63,Davin,Thow,2,Male,8/5/1946,"Other cysts of oral region, not elsewhere classified",Johnson Grass
+64,Sigismondo,Browell,37,Genderfluid,9/8/1997,Hemorrhoids in the puerperium,Urtica Betula Special Order
+65,Reyna,Lobell,85,Female,7/11/1946,"Unsp intracranial injury w/o loss of consciousness, init",Corn Starch
+66,Thibaud,Legerton,103,Male,8/9/1998,"Injury of axillary nerve, left arm","Acetaminophen, Doxylamine succinate, Phenylephrine HCl"
+67,Rachelle,Knibbs,40,Female,12/25/1911,Corrosion of first degree of scalp [any part],Bisoprolol fumarate
+68,Fianna,Pickerin,61,Female,6/30/1974,"Maternal care for malpresentation of fetus, unsp, fetus 5","OCTINOXATE, TITANIUM DIOXIDE"
+69,Tristan,Ibanez,83,Male,11/27/1969,"Cont preg aft spon abort of one fts or more, unsp tri, fts2","alcohol, fumaria officinalis flowering top, calcium sulfide, bos taurus lymph, sus scrofa lymph, pinus sylvestris leafy twig, green peppercorn, prunus spinosa flower bud, silicon dioxide, bos taurus spleen, sus scrofa spleen, sulfuric acid"
+70,Garey,Crank,45,Male,6/9/1959,Other secondary osteonecrosis of right radius,"Octinoxate, Octocrylene, Zinc Oxide"
+71,Annelise,Purshouse,15,Female,3/20/1967,"Poisoning by oth general anesthetics, intentional self-harm",Phendimetrazine Tartrate
+72,Concordia,Franklen,85,Female,4/12/1933,"Tympanosclerosis, bilateral",Simvastatin
+73,Etheline,Gress,55,Female,9/26/1970,"Hit by object due to uncontrolled fire, not in bldg",Sulfamethoxazole and Trimethoprim
+74,Fletcher,Massard,93,Male,7/21/1920,Mast cell activation syndrome and related disorders,Cephalexin
+75,Briana,Diemer,83,Female,1/14/1996,"Myopathy of extraocular muscles, bilateral",CALCIUM CARBONATE
+76,Huberto,Bratty,95,Male,1/26/1932,Nontraumatic subarachnoid hemorrhage from l verteb art,Garlic
+77,Maurits,Ebbens,92,Male,7/13/1913,"Pathological fracture, left ulna, sequela",Atenolol and Chlorthalidone
+78,Valentino,Eynald,41,Male,10/13/1980,"Unspecified injury of bronchus, bilateral, subs encntr","OCTINOXATE, OCTISALATE, AVOBENZONE, OCTOCRYLENE"
+79,Marga,McKeowon,78,Female,10/25/2014,"Sltr-haris Type IV physl fx upper end humer, left arm, sqla","POLYETHYLENE GLYCOL 400, PROPYLENE GLYCOL"
+80,Quill,Hambly,6,Male,5/29/1902,"Oth disrd of bone density and structure, unsp upper arm","Dextromethorphan HBr, Guaifenesin"
+81,Ruthanne,Cardenosa,19,Female,12/7/1946,"Subluxation of T6/T7 thoracic vertebra, sequela",Ethyl Alcohol
+82,Sargent,Whittles,63,Male,11/4/1941,"Occupant of stcar injured in clsn w mtr veh in traf, sequela",Ethyl alcohol
+83,Alfredo,Easey,103,Male,5/8/1971,"Corrosion of second degree of left thumb (nail), sequela",Ranitidine
+84,Morgan,Burgh,101,Male,10/18/2020,"Dislocation of jaw, right side, subsequent encounter",SODIUM MONOFLUOROPHOSPHATE
+85,Lilas,Verryan,102,Female,5/6/1979,"Torus fx upper end of unsp ulna, subs for fx w routn heal",Risperidone
+86,Bertine,Meachem,84,Female,8/2/1980,"Displ spiral fx shaft of r fibula, 7thR",pioglitazone hydrochloride
+87,Lydia,Waryk,5,Female,5/10/2012,"Person on outside of snowmobile injured nontraf, init",Sertraline Hydrochloride
+88,Pegeen,Chamberlaine,60,Female,1/25/1912,"Oth fx low end l femr, 7thF",Ketorolac Tromethamine
+89,Onofredo,McRobbie,39,Male,7/6/1907,"Pnctr w foreign body of unsp finger w/o damage to nail, init",PIPERACILLIN and TAZOBACTAM
+90,Filippo,Rubenczyk,120,Male,6/1/1983,Spinal osteochondrosis,"Betula Cortex, Caltha Palustris, Galium Aparine, Sedum Acre, Thuja Occidentalis, Urtica urens, Clematis Erecta, Hedera Helix, Juniperus Communis, Quillaja Saponaria, Sempervivum Tectorum, Echinacea,"
+91,Lynna,Legonidec,105,Female,3/28/1920,Contusion of upper arm,Ciprofloxacin
+92,Lyn,Warden,68,Female,8/22/1928,"Angular blepharoconjunctivitis, bilateral",Oxygen
+93,Marys,Donner,76,Female,11/3/2008,"Contusion of right ankle, sequela",Olanzapine
+94,Hartwell,Dregan,115,Male,5/4/1923,Oligospermia due to radiation,Naproxen
+95,Jedd,Maylin,80,Male,4/21/1970,"Oth fracture of shaft of right humerus, init for opn fx",albuterol sulfate
+96,Leeanne,Fumagalli,41,Female,12/18/1931,"Dislocation of other parts of neck, subsequent encounter","PIPERACILLIN SODIUM,TAZOBACTAM SODIUM"
+97,Phip,Bogart,27,Male,5/21/2003,Displaced intertrochanteric fracture of left femur,Menthol
+98,Pearla,Drinkel,51,Female,3/7/1946,Unspecified open wound of breast,Aluminum Zirconium Tetrachlorohydrex GLY
+99,Carmine,Sneaker,71,Male,7/23/2016,"Nondisp fx of greater trochanter of unsp femr, 7thE",Sumatriptan Succinate
+100,Waylon,Lakeland,55,Male,2/8/1996,Fetishism,Bismuth Subsalicylate
+101,Leslie,Rosenstein,17,Male,2/18/1966,"Fall in (into) bucket of water causing oth injury, init",epinephrine
+102,Giustina,Bodycombe,7,Female,8/10/1962,Drug/chem diabetes mellitus w diabetic cataract,Thyreoidea Melissa
+103,Gertruda,Pull,49,Female,3/14/2007,"Person outsd pk-up/van inj in clsn w hv veh nontraf, sequela",NITROGEN
+104,Mortimer,Karsh,81,Polygender,6/13/1986,"Inj flexor musc/fasc/tend l mid finger at forarm lv, init",Aspirin
+105,Gil,McIlriach,78,Male,3/18/1939,Chronic nasopharyngitis,Citrus Quartz
+106,Alard,Killelea,29,Male,10/1/1973,"Lesion of plantar nerve, right lower limb",Fluocinonide
+107,Dalila,Wilding,53,Agender,6/16/1960,"Corrosion of unsp degree of left hand, unsp site, sequela",Guaifenesin
+108,Miner,Guidotti,22,Male,7/1/1919,"Fracture of nasal bones, initial encounter for open fracture",Hydrocortisone
+109,Vachel,Feavearyear,28,Male,11/7/1923,"Underdosing of calcium-channel blockers, subs encntr",BUPROPION HYDROBROMIDE
+110,Sol,Beining,108,Male,4/15/1939,Pasngr in pk-up/van injured in clsn w rail trn/veh nontraf,Erythromycin
+111,Barbabas,Nortcliffe,101,Male,8/18/1932,"Drown due to being washed ovrbrd from unpowr wtrcrft, subs",Hydrochlorothiazide
+112,Melvyn,Colqueran,80,Male,4/11/1938,"Unsp fx low end unsp tibia, 7thJ",varenicline tartrate
+113,Maxi,Connachan,36,Female,8/29/1918,"Adverse effect of oth fibrinolysis-affecting drugs, init",Ibuprofen
+114,Saw,Keeffe,117,Male,12/25/1955,Cracked tooth,Thuja Occidentalis
+115,Cara,Kohen,110,Female,7/3/1996,Underdosing of unspecified topical agent,Sodium Tetradecyl Sulfate
+116,Hebert,Charle,0,Male,4/4/1919,"Disp fx of medial phalanx of left lesser toe(s), sequela",Salicylic Acid
+117,Ada,Ahrend,86,Female,1/1/1956,"Nondisp fx of intermed cuneiform of l ft, 7thP",tramadol hydrochloride
+118,Tito,Tuffrey,65,Male,9/5/1900,Seborrheic infantile dermatitis,Ciprofloxacin Hydrochloride
+119,Hector,Mapholm,53,Male,2/25/1930,Congenital deformity of knee,doripenem
+120,Gilles,Vezey,119,Male,7/11/1934,"Glider (nonpowered) fire injuring occupant, init encntr",Sertraline
+121,Alisa,Wardall,70,Female,12/25/1997,Infect/inflm reaction due to int fix of left tibia,Mixture of Standardized and Non-Standardized Southern Grasses
+122,Welsh,Hartfleet,68,Male,12/9/1960,"Fall in (into) filled bathtub causing oth injury, subs",Acetaminophen
+123,Sinclare,Madner,66,Male,10/25/1989,"Lead-induced chronic gout, left hand, with tophus (tophi)",Benazepril hydrochloride
+124,Darsey,Baglan,47,Female,3/27/2013,"Nondisp seg fx shaft of r tibia, 7thD",rifapentine
+125,Steffen,Brasier,81,Male,12/17/1960,"Burn of unspecified degree of right upper arm, subs encntr","Aluminum hydroxide, Magnesium hydroxide, Simethicone"
+126,Gavra,Oade,28,Female,10/20/1906,Abnormal results of other function studies of eye,diltiazem hydrochloride
+127,Evvie,Fudger,99,Female,9/12/2012,"Lac w fb of unsp front wall of thorax w penet thor cav, init",Famotidine
+128,Sarena,Churchin,89,Female,10/6/1970,"Accidental scratch by another person, subsequent encounter","BACITRACIN ZINC, NEOMYCIN SULFATE, POLYMYXIN B SULFATE, BENZALKONIUM CHLORIDE, LIDOCAINE, ISOPROPYL ALCOHOL, BENZALKONIUM CHLORIDE"
+129,Modestia,De la Eglise,22,Polygender,9/11/1991,Injury of ulnar nerve at wrist and hand level of right arm,"Apis mellifica, Bolda, Fucus vesiculosus, Galium aparine, Gambogia, Hamamelis virginiana, Hepar suis, Histaminum hydrochloricum, Pancreas suis, Thuja occidentalis"
+130,Lannie,Peterffy,101,Male,5/7/1924,"Subluxation of unsp parts of left shoulder girdle, subs",ALUMINUM SESQUICHLOROHYDRATE
+131,Nester,Cuttles,99,Male,8/24/1937,Variant Creutzfeldt-Jakob disease,Somatropin
+132,Roda,Urling,47,Female,10/14/1927,"Hemorrhagic otitis externa, right ear",Miconazole nitrate
+133,Florie,Penhearow,63,Genderfluid,12/28/1903,"Nondisp fx of shaft of first MC bone, unsp hand, sequela",Miconazole Nitrate
+134,George,Schapero,113,Female,11/29/1971,"Fracture of mandible of oth site, subs for fx w nonunion",Clindamycin Palmitate Hydrochloride
+135,Skelly,Hruska,42,Male,7/5/1939,Other and unspecified injuries of thoracic spinal cord,Guinea Pig Epithelium
+136,Derk,Sail,5,Male,1/28/2002,Family history of asthma and oth chronic lower resp diseases,chloroxylenol
+137,Devlin,Moncreiffe,114,Male,10/16/2007,"Nondisp fx of head of r rad, 7thR",Lisinopril
+138,Carlin,Larose,26,Female,10/16/1977,Exfoliatn due to erythemat cond accord extent body involv,Naproxen sodium
+139,Cacilia,Spain,113,Bigender,10/20/1925,Nondisp fx (avulsion) of lateral epicondyle of left humerus,"Ceanothus Americanus, Euphrasia Officinalis, Germanium Robertianum,"
+140,Sal,Smieton,56,Male,11/13/1920,Cerebral hemorrhage due to birth injury,sumatriptan succinate
+141,Alaric,Daout,80,Male,7/13/1971,Anemia complicating the puerperium,"acetaminophen, pamabrom"
+142,Leelah,Gasticke,116,Female,12/11/2017,"Poisn by antiparkns drug/centr musc-tone depr, acc, sequela",Acetaminophen and Diphenhydramine HCl
+143,Lila,Daughtry,78,Female,1/20/2004,"Oth osteopor w current path fracture, unsp low leg, sequela",Nicotine Polacrilex
+144,Hilton,Giannazzi,21,Agender,11/7/1929,Other specified nontoxic goiter,Loratadine
+145,Cirillo,Serrell,117,Male,10/23/2019,Carbuncle of buttock,Rosin
+146,Lemuel,Souley,54,Male,10/9/1971,"Laceration of radial artery at forarm lv, unsp arm, sequela",BENZTROPINE MESYLATE
+147,Berri,De la Yglesias,31,Female,5/2/1939,"Crushing injury of left wrist, subsequent encounter",sulfacetamide sodium and prednisolone sodium phosphate
+148,Malvin,Cromwell,96,Male,6/29/1950,Other benign neuroendocrine tumors,Ranitidine
+149,Riley,Farfalameev,46,Male,12/4/1993,Complete traumatic transmetacarpal amputation of left hand,laricifomes officinalis fruiting body
+150,Hilly,Arnall,27,Male,7/15/1918,"Sprain of metacarpophalangeal joint of unsp thumb, init",Salicylic Acid
+151,Timi,Giraudat,48,Bigender,7/28/1921,"Nondisp longitud fx l patella, 7thJ",acetaminophen and codeine phosphate
+152,Rice,Scotti,117,Male,7/3/1943,"Spinal instabilities, cervicothoracic region",miconazole nitrate
+153,Innis,Gauson,32,Male,6/28/1955,"Oth fx l patella, subs for opn fx type 3A/B/C w delay heal",Hydralazine Hydrochloride
+154,Hestia,McKew,15,Genderfluid,5/1/1954,"Nondisp transverse fx unsp acetab, subs for fx w nonunion",Metformin Hydrochloride
+155,Ker,McComb,46,Male,1/12/1991,"Passenger on bus injured in collision w hv veh nontraf, init",ziprasidone hydrochloride
+156,Tamqrah,Novik,23,Female,10/29/1938,"External constriction of right forearm, sequela",cephalexin
+157,Karol,Galbraith,15,Female,4/22/1966,Burn of right eyelid and periocular area,Carbon Dioxide-Oxygen Mixture
+158,Noe,Addenbrooke,66,Male,7/31/2012,"Inj superficial vein at shldr/up arm, unsp arm, init",hydrochlorothiazide
+159,Trixi,Eley,71,Non-binary,1/31/1900,"Unsp inj intrns musc/fasc/tend finger at wrs/hnd lv, sequela",Stemphylium botryosum
+160,Godfrey,Leipoldt,87,Male,8/18/1961,Osseous stenosis of neural canal of pelvic region,Couch Quack Grass
+161,Bailey,McCathy,4,Male,6/17/1903,"Traum rupt of collat ligmt of r idx fngr at MCP/IP jt, sqla","Hepar sulph. calc., Hypericum, Phosphorus, Aconitum nap., Arnica, Belladonna, Bellis, Calendula, Colchicum, Ledum, Millefolium, Rhus toxicodendron, Apis mel., Chamomilla, Echinacea, Hamamelis, Hydrastis, Ruta, Symphytum"
+162,Dalton,Gaudon,47,Male,7/15/1998,Displacement of balloon (counterpulsation) device,"Acetaminophen, Diphenhydramine HCL, Phenylephrine HCL and Dextromethorphan HBr"
+163,Windham,Echelle,73,Male,3/6/1985,"Attic perforation of tympanic membrane, right ear",Aspergillus fumigatus
+164,Mina,Aers,57,Polygender,5/30/2015,"Insect bite (nonvenomous), unspecified thigh",Oxygen
+165,Krishnah,Karet,67,Male,5/17/1946,"Obstructed labor due to incmpl rotation of fetal head, unsp",OCTINOXATE and TITANIUM DIOXIDE
+166,Hewett,Berkely,78,Male,2/27/1934,Displaced subtrochanteric fracture of unspecified femur,"Apis Mellifica, Bryonia, Causticum, Colchicum Autumnale, Kalmia Latifolia, Ledum Palustre"
+167,Brunhilda,Janssen,15,Bigender,6/22/1990,"Explosion on board other powered watercraft, sequela",PANTOPRAZOLE SODIUM
+168,Corbett,Sinclaire,61,Male,2/24/1998,Other specified diseases of gallbladder,Sodium Tetradecyl Sulfate
+169,Rae,Burgum,21,Female,9/16/1986,"Contusion of unspecified elbow, subsequent encounter","Hydrous Dextrose, Sodium Chloride, Sodium Gluconate, Sodium Acetate Trihydrate, Potassium Chloride and Magnesium Chloride Hexahydrate"
+170,Persis,Snedker,18,Female,9/12/1926,"Disp fx of neck of left rad, subs for clos fx w delay heal",Phenylephrine HCl
+171,Felice,Millea,73,Male,4/5/1993,"Nondisp subtrochnt fx r femur, subs for clos fx w nonunion",Simvastatin
+172,Susann,Klaff,37,Female,1/11/1916,"Struck by other hit or thrown ball, subsequent encounter",Aluminum Zirconium Trichlorohydrex Gly
+173,Martha,Pigny,111,Female,10/28/1946,Androgens and anabolic congeners,BENZALKONIUM CHLORIDE
+174,Cosette,Gudeman,32,Female,5/27/1900,Occupant of hv veh injured in collision w hv veh,desmopressin acetate
+175,Priscilla,Kaygill,45,Female,4/9/1910,Frostbite with tissue necrosis of right toe(s),alcohol
+176,Galina,Arson,30,Female,1/6/1947,Passenger on bus injured in collision w rail trn/veh nontraf,MIRTAZAPINE
+177,Boigie,Rubinow,81,Male,3/25/2008,"Poisoning by sulfonamides, intentional self-harm, subs",ethiodized oil
+178,Gerta,Baroch,79,Female,1/12/1933,"Pnctr w/o fb of l rng fngr w/o damage to nail, sequela","Acetaminophen, Dextromethorphan Hydrobromide, Doxylamine Succinate"
+179,Darda,Gleadhall,24,Female,5/7/1999,"Disp fx of lateral condyle of l tibia, 7thC","ZINC OXIDE, OCTINOXATE, and OCTISALATE"
+180,Lin,Caush,93,Female,6/14/1986,Displacement of indwelling ureteral stent,Aspirin
+181,Ddene,Deakin,48,Female,6/27/1960,"Unspecified sprain of right middle finger, subs encntr",triclosan
+182,Meggie,Syphus,31,Female,7/24/1954,"Disp fx of med condyle of r tibia, init for opn fx type I/2",Aureobasidium pullulans
+183,Francisca,Jellett,91,Female,3/12/2020,"Open bite of r bk wl of thorax w penet thoracic cavity, subs",ORRIS
+184,Bernardo,Poser,62,Male,6/5/1960,"Displ spiral fx shaft of l tibia, 7thP",IPECAC
+185,Lani,Goodding,71,Female,6/30/1938,Oth abnormal findings in specimens from resp org/thrx,Pyrithione zinc
+186,Clerc,McGeouch,114,Male,9/24/1925,Underdosing of oth antacids and anti-gastric-secretion drugs,Sunscreen
+187,Kaleb,Brownsall,27,Male,6/23/2014,Other thyrotoxicosis,Multi Vitamin and Fluoride
+188,Allys,Minghi,16,Female,1/19/1918,"Protozoal diseases complicating pregnancy, first trimester",Aluminum Zirconium Trichlorohydrex Gly
+189,Kimball,Fraczak,85,Bigender,9/30/2012,"Inj muscle, fascia and tendon of prt biceps, left arm, init",Lisinopril
+190,Giavani,Gymlett,120,Genderqueer,10/29/1991,"Partial traumatic amputation at elbow level, left arm, subs",Hamster Epithelium
+191,Dene,Ishaki,48,Male,10/24/1910,"Legal blindness, as defined in USA",SODIUM CHLORIDE
+192,Aurea,Cuddihy,25,Female,6/28/1901,"Laceration of left Achilles tendon, sequela",TRICLOSAN
+193,Alfons,Took,51,Male,10/22/1969,"Unsp fracture of sacrum, subs for fx w delay heal",Petrolatum
+194,Alina,Filyukov,104,Agender,1/27/1926,Unspecified superficial injury of left lower leg,Dermatophagoides farinae
+195,Lil,Burhill,49,Female,11/15/2010,"Unspecified open wound, left lower leg, sequela",Ibuprofen
+196,Suzi,Olijve,114,Female,11/30/2012,Chronic venous hypertension (idiopathic) w/o complications,White petroleum
+197,Livvyy,Kearton,15,Female,2/4/1974,Unspecified complication of heart transplant,Sodium Monofluorophosphate
+198,Clovis,Berni,73,Female,3/17/1916,"Displaced unsp fracture of unsp lesser toe(s), sequela","Betula pendula, cortex, Lappa major, Plantago major, Taraxacum officinale,"
+199,Adams,Kingston,60,Male,6/23/2001,Obstetric high vaginal laceration alone,Urea
+200,Florella,Nuccitelli,34,Female,2/16/1985,Athscl type of bypass of right leg w ulcer oth prt low leg,Losartan Potassium
+201,Lanae,Chasmar,54,Female,12/4/1956,"Chronic myeloid leuk, BCR/ABL-positive, not achieve remis",Turnip
+202,Kristine,Pringle,99,Female,12/5/1954,Monoplg upr lmb fol oth ntrm intcrn hemor aff r nondom side,rizatriptan benzoate
+203,Ricca,Pomery,110,Female,8/25/1943,Corrosion of third degree of unspecified elbow,Allergenic Extracts Alum Precipitated
+204,Esdras,Hamelyn,6,Male,4/18/1908,"Oth injury of blood vessel of unspecified finger, sequela",Warfarin Sodium
+205,Nollie,Hawkes,66,Genderfluid,5/14/2009,"Sltr-haris Type IV physeal fx unspecified calcaneus, 7thG",Phenytoin Sodium
+206,Amalee,Aird,58,Female,3/20/1904,"Unsp injury of popliteal artery, left leg, init encntr","Butalbital, aspirin, and caffeine"
+207,Jill,Donnachie,96,Female,12/19/1900,"Displ intertroch fx unsp femur, subs for clos fx w malunion","TITANIUM DIOXIDE, OCTINOXATE, ZINC OXIDE"
+208,Sylas,Jewsbury,81,Male,5/30/1904,"Burn of unspecified degree of chest wall, sequela",HUMAN IMMUNOGLOBULIN G
+209,Francene,Cavy,24,Female,10/27/2004,Neoplasm of uncertain behavior of uterus,Tamsulosin Hydrochloride
+210,Benoite,Poles,51,Female,11/1/1947,"Osteonecrosis in diseases classified elsewhere, unsp thigh",ATORVASTATIN CALCIUM PROPYLENE GLYCOL SOLVATE
+211,Terrel,Lebang,87,Male,9/30/1994,Pedestrian injured in collision with other nonmotor vehicle,Gentamicin Sulfate
+212,Maximilien,Joanaud,83,Male,10/10/1995,Vitreous hemorrhage,ALUMINUM CHLOROHYDRATE
+213,Roma,Meatyard,17,Male,9/7/2010,"Struck by orca, initial encounter",Pantoprazole
+214,Felisha,Maud,47,Female,10/24/2021,"Toxic effect of aflatoxin, assault",Hydralazine Hydrochloride
+215,Bronson,Methingam,39,Male,2/22/1936,"Frostbite w tissue necrosis of right hip and thigh, subs",risperidone
+216,Verine,Oxbie,54,Female,12/31/1917,"Oth foreign object in bronchus causing other injury, sequela",Bethanechol Chloride
+217,Ulrika,Klaussen,73,Female,4/9/1917,"Displ Rolando's fracture, l hand, subs for fx w delay heal",Shrimp Crago sp.
+218,Diahann,Beach,46,Female,12/21/1926,Anomalies of tooth position of fully erupted tooth or teeth,Methocarbamol
+219,Debee,Lavens,85,Female,9/11/1981,"Unspecified superficial injury of vagina and vulva, sequela",Loratadine
+220,Dalia,Ivanonko,24,Female,4/18/1947,"Nondisplaced fracture of fourth metatarsal bone, right foot",SIMETHICONE
+221,Moore,Lynnett,62,Male,2/5/1933,"Oth comp of fb acc left in body fol oth procedure, init",Dexamethasone
+222,Trace,MacKay,76,Male,8/17/1928,"Benign neoplasm of mesothelial tissue, unspecified","OCTINOXATE, Titanium Dioxide, AVOBENZONE, OCTISALATE, Octocrylene"
+223,Kakalina,Rodder,64,Female,7/4/1981,"Oth fx shaft of rad, unsp arm, 7thF",PYRITHIONE ZINC
+224,Tobie,Duignan,70,Male,6/18/1977,Bathroom in prison as place,Potassium Chloride
+225,Pippa,Cristoferi,73,Female,10/10/1929,Leakage of graft of urinary organ,PIPERACILLIN and TAZOBACTAM
+226,Melva,Woodyeare,3,Female,10/11/1953,"Nondisp fx of prox phalanx of r rng fngr, 7thP",Losartan Potassium
+227,Shay,Mattiato,21,Female,4/26/1999,"Oth generalized epilepsy, not intractable, w/o stat epi",GLYCERIN
+228,Chevy,Littell,1,Male,4/13/1992,"Nondisp fx of lateral condyle of left tibia, sequela",DILTIAZEM HYDROCHLORIDE
+229,Suzanne,Steers,3,Female,2/28/1910,"Unstbl burst fx third lum vertebra, subs for fx w routn heal","Solidago Virgaurea, Uva-Ursi, Pareira Brava, Sabal Serrulata, Populus Tremuloides, Staphysagria, Cantharis, Terebinthia, Borax"
+230,Rafe,Quinnell,104,Male,6/6/1912,"Dislocation of distal end of left ulna, subsequent encounter",enalapril maleate and hydrochlorothiazide
+231,Melina,Careswell,108,Female,12/23/1981,Injury of unspecified blood vessel at wrist and hand level,HYDROCODONE BITARTRATE AND ACETAMINOPHEN
+232,Henrieta,Picford,107,Female,5/22/2003,Urethrocele,Promethazine Hydrochloride
+233,Anderson,Brimham,0,Male,4/18/2003,Unstable burst fracture of second thoracic vertebra,TRICLOSAN
+234,Midge,Gramer,65,Female,10/19/2002,"Other injury of uterus, subsequent encounter",Chlorhexidine Gluconate
+235,Juan,Elijah,4,Male,11/24/1970,"Behavioral insomnia of childhood, limit setting type",chlorthalidone
+236,Iolande,Megson,100,Female,10/21/1961,"Displ Maisonneuve's fx unsp leg, subs for clos fx w nonunion",triclosan
+237,Dorelle,Sinderson,38,Female,2/14/1962,Contact with dog,PREGABALIN
+238,Kris,Jemison,84,Male,6/25/1953,"Heat exposure on board passenger ship, sequela",Ropinirole Hydrochloride
+239,Raye,Harwood,13,Female,6/13/2007,"Adverse effect of pyrazolone derivatives, sequela",Mexican Tea Pollen
+240,Theadora,Ducket,46,Female,11/6/1919,"Other contact with turtle, initial encounter",Dicyclomine Hydrochloride
+241,Jodie,Hitzmann,107,Female,5/27/1999,"Complex tear of medial meniscus, current injury, unsp knee",Hydroquinone
+242,George,Maylin,107,Male,11/29/1933,"Oth comp of anesthesia during pregnancy, third trimester","Avobenzone, Octinoxate, Octisalate, Octocrylene"
+243,Gussi,Lowcock,67,Genderfluid,8/26/1959,Other benign neoplasm of skin of scalp and neck,Treatment Set TS343825
+244,Waylon,Recke,72,Male,4/18/1923,"Nondisp fx of proximal phalanx of right great toe, sequela",Magnesium Citrate
+245,Sallee,Hardware,80,Female,8/28/1911,"Air emblsm fol infusn, tranfs and theraputc inject, sequela",Triclosan
+246,Kasey,Lewsam,66,Female,5/31/2020,"Legal intervnt involving oth explosives, bystander injured",Prednisone
+247,El,Hoy,57,Male,5/16/1980,Other lymphoid leukemia,Triclocarban
+248,Gaston,Pearn,19,Male,3/28/1924,"Nondisp spiral fracture of shaft of humerus, unsp arm, init","Dextromethorphan Hydrobromide, Guaifenesin and Pseudoephedrine Hydrochloride"
+249,Chas,Flag,46,Male,10/15/1960,"Path fracture, unsp finger(s), subs for fx w delay heal",Metformin Hydrochloride
+250,Marcus,Downie,57,Male,10/8/1999,"Meralgia paresthetica, right lower limb",Triclosan
+251,Feliza,Simonassi,51,Female,6/18/2015,Other benign neuroendocrine tumors,ROPIVACAINE HYDROCHLORIDE
+252,Drusie,Lakin,71,Female,11/6/1952,"Bent bone of l ulna, subs for opn fx type I/2 w delay heal",Acetaminophen
+253,Roderich,Casson,8,Male,2/16/2012,"Unstable burst fracture of T5-T6 vertebra, init for opn fx",Bismuth Subsalicylate
+254,Keith,Lobbe,104,Male,11/20/1969,"Calcific tendinitis, left hand",METHYL SALICYLATE
+255,Mordecai,Chiles,71,Male,9/11/1953,Hyp hrt & chr kdny dis w hrt fail and w stg 5 chr kdny/ESRD,Escitalopram
+256,Brantley,Gonnely,107,Male,2/25/1929,Pre-existing essential hypertension comp the puerperium,basiliximab
+257,Ursula,Tassell,75,Female,5/24/1948,Other disorders of vitreous body,Naftifine Hydrochloride
+258,Merrielle,Sibbe,58,Female,6/13/1972,"Fracture of alveolus of mandible, unspecified side, sequela",Bismuth subsalicylate
+259,Neal,Glyde,21,Male,7/18/1905,"Occup of pk-up/van injured in clsn w hv veh in traf, sequela",Warfarin Sodium
+260,Gerard,Barter,100,Male,2/27/1916,"Unsp inj musc/fasc/tend at shldr/up arm, right arm, sequela",Lisinopril
+261,Wilfrid,Ackeroyd,31,Male,9/28/1909,"Adverse effect of other antidepressants, sequela",ETHYL ALCOHOL
+262,Malinda,Oldroyde,91,Female,1/5/1929,"Puncture wound w/o foreign body of unsp shoulder, sequela",Hydroxyzine hydrochloride
+263,Lester,Toft,95,Male,9/9/1938,"Oth cause of strike by thrown, projected or fall obj, init",OCTINOXATE and TITANIUM DIOXIDE
+264,Dulcea,Rottenbury,43,Female,12/18/1918,"Displacmnt of nervous sys device, implant or graft, init",Moexipril Hydrochloride
+265,Vittorio,Delle,102,Male,3/15/1987,"Maternal care for compound presentation, fetus 3",Tretinoin
+266,Ezekiel,Tolumello,33,Male,8/27/2018,"Legal intervention involving other gas, bystander injured","Ignatia, Kali phos, Nat sulphuricum, Staphysagria"
+267,Mathian,Heinlein,4,Male,4/13/2021,"Sltr-haris Type II physl fx low end unsp fibula, 7thK",donepezil hydrochloride
+268,Francois,Charlick,44,Male,7/3/1944,"Partial traumatic amputation of right midfoot, subs encntr",Cefazolin
+269,Gaspar,Elcoux,13,Male,2/24/1975,"Displaced midcervical fracture of unsp femur, init",Tretinoin
+270,Ashely,Seefus,97,Agender,1/29/1911,Other persistent mood [affective] disorders,"sodium chloride, sodium lactate, calcium chloride, magnesium chloride and dextrose"
+271,Minna,Hazzard,104,Female,6/29/1954,Contaminated medical or biological substances,Sulfamethoxazole and Trimethoprim
+272,Brien,Fitzackerley,17,Male,10/7/2020,"Displ oblique fx shaft of humer, r arm, 7thG","Acetaminophen, Dextromethorphan HBr, Doxylamine succinate"
+273,Jacobo,Grisenthwaite,33,Polygender,4/20/1987,"Poisoning by ganglionic blocking drugs, accidental, sequela",Hydrochlorothiazide
+274,Nicola,Fursse,29,Female,3/31/1927,Institutional upbringing,Bismuth Subsalicylate
+275,Merrili,Peasnone,120,Female,2/22/2014,"Pressure ulcer of unspecified heel, stage 4",Menthol
+276,Hedda,Standen,92,Female,4/8/1993,"Disp fx of r radial styloid pro, 7thG","Methenamine, Sodium Phosphate, Monobasic, Monohydrate, Phenyl Salicylate, Methylene Blue, and Hyoscyamine Sulfate"
+277,Emlyn,Illwell,115,Female,5/7/1953,Burn of unspecified degree of right palm,Oxycodone Hydrochloride
+278,Biddie,Rosenthal,67,Female,1/1/1980,Animal type phobia,"carbidopa, levodopa, and entacapone"
+279,Costa,Farquhar,31,Male,12/25/2007,"Undrdose of selective seroton/norepineph reup inhibtr, init",Carvedilol
+280,Udell,Edinburough,109,Male,2/15/1945,Injury of digital nerve of unspecified thumb,ulmus crassifolia pollen
+281,Clem,Thrasher,7,Male,3/22/1918,"Unsp injury of musc/fasc/tend at thi lev, unsp thigh, subs",House Dust
+282,Sandor,Ormrod,114,Male,1/28/1944,"Oth disrd of amniotic fluid and membrns, second tri, unsp","ASPIRIN, CHLORPHENIRAMINE MALEATE, PHENYLEPHRINE BITARTRATE"
+283,Beth,Jessel,7,Female,1/15/1908,Functional diarrhea,Octinoxate and Oxybenzone
+284,Tracy,Beswick,99,Female,9/23/2009,Corrosion of third degree of unspecified forearm,Paroxetine
+285,Berny,Cornelleau,67,Genderqueer,7/18/1925,"War op w chem weapons and oth unconvtl warfare, civ, init",PSEUDOGNAPHALIUM OBTUSIFOLIUM and CITRULLUS COLOCYNTHIS FRUIT PULP and
+286,Laurel,Huxton,76,Female,11/19/1927,"War op w dest arcrft due to acc deton onbrd munit, civ, init","calendula officinalis, chamomilla"
+287,Laverne,Judgkins,64,Female,2/10/1918,Car occupant (driver) (passenger) injured in unsp nontraf,"Brompheniramine Maleate, Dextromethorphan Hydrobromide and Phenylephrine Hydrochloride"
+288,Dru,Shakshaft,112,Female,11/23/1940,"Laceration w fb of left thumb w damage to nail, init",Propafenone hydrochloride
+289,Elysia,Bagott,61,Female,12/16/2014,"Internal ophthalmoplegia (complete) (total), unspecified eye",Dog Fennel
+290,Chicky,Cahalin,90,Female,3/24/1934,"Osteitis condensans, hand",ALCOHOL
+291,Eldridge,Heers,99,Male,7/21/1962,Unspecified open wound of thumb with damage to nail,diazepam
+292,Mendel,Trussman,18,Male,1/3/1930,"Maternal care for hydrops fetalis, second trimester, oth",Headache Flu
+293,Odella,Standfield,29,Female,5/1/1956,Person outside car injured in clsn w pick-up truck in traf,clindamycin hydrochloride
+294,Fredrick,Skyner,77,Male,11/12/1992,"Corrosion of 2nd deg mul sites of head, face, and neck, subs",Aluminum Chlorohydrate
+295,Edlin,Botler,65,Male,4/3/1992,"Physeal arrest, humerus","ARNICA MONTANA, ARSENIC TRIOXIDE, BELLIS PERENNIS, PASSIFLORA INCARNATA FLOWERING TOP, VALERIAN, APIS MELLIFERA, HUMAN BREAST TUMOR CELL, HELIANTHEMUM CANADENSE, CLEMATIS RECTA FLOWERING TOP, ARABICA COFFEE BEAN, STRYCHNOS IGNATII SEED, LACHESIS MUTA VENOM, MAGNESIUM PHOSPHATE, DIBASIC TRIHYDRATE, SODIUM CHLORIDE, SODIUM SULFATE, ORNITHOGALUM UMBELLATUM, PHOSPHORIC ACID, SALIX NIGRA BARK, DELPHINIUM STAPHISAGRIA SEED"
+296,Karoly,Wakeford,63,Female,7/1/1992,"Insect bite (nonvenomous) of left hand, subsequent encounter",Diltiazem Hydrochloride
+297,Florinda,Caselick,88,Female,10/11/1952,"Poisoning by alpha-adrenoreceptor antagonists, self-harm",Quack Grass
+298,Brandais,Laweles,33,Female,9/15/2009,"Poisoning by other psychodysleptics, assault, init encntr","Alfalfa, Avena sativa, Baryta carbonica, Baryta Iodata, Baryta muriatica, Calcarea carbonica, Calcarea fluorica, Calcarea phosphorica, Lycopodium clavatum, Thuja occidentalis"
+299,Roderich,Barstock,26,Male,8/6/1925,"Fx rad/ulna fol insrt ortho implnt/prosth/bone plt, unsp arm",Montelukast Sodium
+300,Ham,Caveill,18,Genderqueer,1/29/1971,"Poisn by antihyperlip and antiarterio drugs, asslt, sequela",Pravastatin Sodium
+301,Zackariah,Hauxley,30,Male,3/11/1983,"Other infective (teno)synovitis, right elbow",varenicline tartrate
+302,Glynda,McTague,113,Female,2/20/1962,"Contracture, unspecified knee",DIMETHICONE
+303,Drusilla,Charles,41,Female,9/20/1971,"Oth disorders of bone development and growth, unsp lower leg",Methocarbamol
+304,Abran,Seath,55,Male,12/25/1971,"Burn of unspecified degree of right lower leg, subs encntr",Quinapril Hydrochloride and Hydrochlorothiazide
+305,Madlen,Scuse,43,Female,5/6/1961,"Oth complications of surgical and medical care, NEC, sequela",POLYETHYLENE GLYCOL 3350
+306,Jonie,Annies,38,Female,8/25/1902,"Other ossification of muscle, thigh",clonidine hydrochloride
+307,Dina,Barson,61,Female,2/13/1994,Benign neoplasm of unspecified lacrimal gland and duct,risperidone
+308,Jerrilyn,Lumsdale,27,Female,6/29/1988,"Toxic effect of inorganic substances, self-harm, sequela",MIDODRINE HYDROCHLORIDE
+309,Merralee,Orrock,119,Female,8/19/1974,"Pedl cyc driver injured in nonclsn trnsp acc in traf, init","Acetaminophen, Phenylephrine HCl, Dextromethorphan HBr, Guiafenesin"
+310,Lynette,Plewman,94,Female,11/30/1921,Fracture of alveolus of right mandible,Gabapentin
+311,Minny,Thorald,62,Female,5/9/1959,Displaced intertrochanteric fracture of unspecified femur,"LEVOMEFOLATE CALCIUM, PYRIDOXINE, CALCIUM CARBONATE, SODIUM ASCORBATE, CHOLECALCIFEROL, .ALPHA.-TOCOPHEROL, D-, CYANOCOBALAMIN, FERROUS FUMARATE, MAGNESIUM OXIDE, and DOCONEXENT"
+312,Kelly,Leathlay,31,Female,11/16/1961,"Oth fracture of first thoracic vertebra, init for opn fx",Cyanocobalamin
+313,Juliane,Snoxall,113,Female,7/18/1910,"Corrosion of first degree of left hand, unsp site, init",OXYGEN
+314,Bernadina,Semonin,57,Female,10/24/1977,"Sltr-haris Type III physeal fx lower end of ulna, left arm","Argentum nitricum, Bryonia, Cocculus indicus, Glonoinum, Lac defloratum, Petroleum, Staphysagria, Tabacum"
+315,Tucker,Sulley,61,Male,12/24/1939,"Sltr-haris Type I physl fx low end humer, r arm, 7thD","OCTINOXATE, TITANIUM DIOXIDE, and ZINC OXIDE"
+316,Giralda,Calvey,99,Female,10/26/1953,"Poisoning by propionic acid derivatives, self-harm, subs",Methylphenidate Hydrochloride
+317,Blaine,Ehrat,113,Male,7/16/1921,Brucellosis due to Brucella canis,meloxicam
+318,Alidia,Gianettini,86,Female,1/2/1980,"Contusion of right little finger w/o damage to nail, sequela",Propranolol Hydrochloride
+319,Redd,Wederell,82,Male,9/6/1966,"Breakdown of ventricular intracranial shunt, subs",carvedilol
+320,Julissa,Dermott,114,Female,8/5/1945,"Exposure to prolonged high air pressure, sequela",Atomoxetine hydrochloride
+321,Devland,Deniseau,88,Male,11/2/1997,"Burn of 3rd deg mu left fingers (nail), including thumb",Diphenhydramine HCl
+322,Pamella,Abrahm,37,Female,5/26/1912,"Poisoning by anterior pituitary hormones, accidental",hydrochlorothiazide
+323,Gordon,Naton,99,Male,4/4/1937,"Inj unsp musc/fasc/tend at wrs/hnd lv, left hand, subs",Heparin Sodium
+324,Maddi,Goldring,44,Female,10/24/1932,"Toxic effect of unsp gases, fumes and vapors, slf-hrm, sqla","Oxybenzone, Octinoxate, Octisalate, Homosalate, and Avobenzone"
+325,Robb,Norgate,71,Male,2/27/2014,"Myositis ossificans progressiva, left upper arm",Fentanyl
+326,Henderson,Gauson,92,Male,1/16/1957,"Oth fall same lev due to collision w another person, sequela",TITANIUM DIOXIDE AND ZINC OXIDE
+327,Olag,Schooling,29,Agender,6/17/1911,"Pathological fracture, unsp ankle, subs for fx w nonunion",Thuja Occidentalis
+328,Nani,Footitt,58,Female,5/13/1967,Allergic contact dermatitis due to metals,piperacillin sodium and tazobactam sodium
+329,Galvan,Diggins,8,Male,4/20/1902,Mech compl of internal left hip prosthesis,"Aconitum napellus, Apis mellifica, Arnica montana, Cartilago suis, Hydrastis canadensis, Hypericum perforatum, Rhus toxicodendron, Thuja occidentalis,"
+330,Buddy,Leaming,48,Male,9/23/1926,Cocaine dependence with unspecified cocaine-induced disorder,Edrophonium Chloride and Atropine Sulfate
+331,Gael,Bilam,8,Genderqueer,12/1/1916,"Sltr-haris Type I physl fx low end ulna, r arm, 7thG",BENZOCAINE and RESORCINOL
+332,Hubey,Gras,48,Male,6/22/1980,"Displaced avulsion fracture of right ischium, sequela","Acetaminophen, Diphenhydramine HCl"
+333,Meg,Tomeo,84,Female,1/4/2006,"Ankylosis, left hip","Butalbital, Acetaminophen, and Caffeine"
+334,Teddi,Manie,54,Female,9/10/1955,"Unspecified sprain of right ring finger, initial encounter",Amoxicillin
+335,Trefor,Baalham,50,Male,4/23/1901,"Disp fx of lateral condyle of r tibia, 7thD",benzocaine
+336,Benedikta,Clemits,108,Female,9/25/2009,Strain of intrinsic musc/fasc/tend thmb at wrs/hnd lv,"Dextroamphetamine saccharate, Amphetamine aspartate, Dextroamphetamine sulfate, and Amphetamine sulfate"
+337,Fabio,Boas,3,Male,3/28/1972,"Nondisp fx of base of fourth metacarpal bone, right hand",benzonatate
+338,Dean,Gouthier,83,Male,4/22/1989,"Decreased white blood cell count, unspecified",Pantoprazole
+339,Burk,Longstreeth,118,Genderqueer,1/4/1972,"Oth fx upr end l ulna, 7thF",Aspergillus terreus
+340,Eloisa,Delacourt,111,Female,7/5/2009,"Conjunctival xerosis, unspecified, bilateral",Sulfamethoxazole and Trimethoprim
+341,Alvin,Krzysztofiak,56,Agender,4/15/1949,"Nondisp fx of dist phalanx of unsp great toe, 7thK",tramadol hydrochloride and acetaminophen
+342,Jodee,Cottam,71,Genderfluid,7/2/1942,Tinea pedis,"Acetaminophen, Chlorpheniramine maleate, Dextromethorphan HBr, Phenylephrine HCl"
+343,Gardiner,Rubinek,37,Male,4/21/1998,"Nondisp apophyseal fx l femr, 7thJ",".BETA.-CAROTENE, ASCORBIC ACID, CHOLECALCIFEROL, .ALPHA.-TOCOPHEROL, DL-, THIAMINE HYDROCHLORIDE, RIBOFLAVIN, NIACIN, PYRIDOXINE HYDROCHLORIDE, FOLIC ACID, HYDROXOCOBALAMIN, BIOTIN, CALCIUM PANTOTHENATE, FERROUS CYSTEINE GLYCINATE, MAGNESIUM OXIDE, ZINC OXIDE, CUPRIC OXIDE, and SODIUM FLUORIDE"
+344,Shirline,Corry,106,Female,8/28/1908,"Superficial injury of ankle, foot and toes",Ibuprofen
+345,Victoir,Pringuer,71,Male,11/4/1968,"Disloc of distal radioulnar joint of left wrist, sequela","Lanolin, Petrolatum"
+346,Dulcie,Biaggelli,56,Female,6/28/1905,"Displaced fracture of medial condyle of left tibia, sequela",Simethicone
+347,Aime,Camerello,67,Female,5/9/1912,Other specified injury of left pulmonary blood vessels,oxybutynin chloride
+348,Edgar,Trowsdall,44,Male,8/23/2017,"Lacerat flexor musc/fasc/tend right thumb at forarm lv, init",Gentamicin Sulfate
+349,Kellina,Goodhall,32,Female,6/17/1951,"Unsp superficial injury of scrotum and testes, subs encntr",Propylthiouracil
+350,Peirce,Miere,39,Non-binary,8/11/1968,"Supervision of other high risk pregnancies, third trimester",paliperidone
+351,Hephzibah,Gillon,115,Female,7/22/1959,"Fracture of ramus of left mandible, 7thG",Phentermine Hydrochloride
+352,Dana,MacFadzan,45,Genderfluid,1/30/2007,"Medial sublux of proximal end of tibia, right knee, subs",erythromycin
+353,Cordey,Tooher,30,Female,1/2/1924,"Toxic effect of soaps, accidental (unintentional), init",Testosterone
+354,Claudell,Knights,21,Male,2/12/1950,"Pathological fracture, right fibula, init for fx",OXYGEN
+355,Delly,Loadman,3,Polygender,12/28/2012,"Ped on oth pedestrian convey colliding w statnry obj, subs",Benzalkonium chloride
+356,Raquel,Bouts,4,Female,1/22/2015,"Laceration of blood vessels at forearm level, left arm, init",Metaxalone
+357,Claudia,Matteuzzi,60,Female,11/24/1905,"Disp fx of r ulna styloid pro, subs for clos fx w routn heal","Belladonna, Calcarea carbonica, Phosphorus, Pulsatilla, Silicea,"
+358,Donnamarie,Woodson,71,Non-binary,6/22/1972,Fat necrosis of breast,SODIUM CHLORIDE
+359,Lebbie,Mackiewicz,10,Female,12/13/1961,"Sltr-haris Type I physeal fracture of r calcaneus, sequela",ETHYL ALCOHOL
+360,Joshuah,Meakes,37,Male,6/25/1981,"Unsp inj extn musc/fasc/tend l rng fngr at forarm lv, sqla","Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone"
+361,Amitie,Wickes,116,Female,6/22/1947,"Burn of second degree of unspecified elbow, subs encntr",MENTHOL
+362,Prisca,Gwynne,78,Female,11/2/1915,"Sedatv/hyp/anxiolytc use, unsp w sexual dysfunction",Famciclovir
+363,Mic,Fripp,18,Male,1/9/2012,"Nontraumatic ischemic infarction of muscle, unspecified hand",Candida tropicalis
+364,Royal,Savaage,87,Non-binary,4/20/2011,"Inj intercostal blood vessels, right side, init encntr",Melaleuca Alternifolia
+365,Marsh,Ayer,69,Male,10/20/1928,Monocular exotropia with other noncomitancies,Rumex acetosella
+366,Mady,Chantrell,59,Female,6/19/2011,Laceration of intrinsic msl/tnd at ankle and foot level,False Ragweed
+367,Clem,Bifield,97,Male,3/24/1975,War op involving dest arcrft due to acc deton onboard munit,Alendronate Sodium
+368,Jonah,Fones,46,Male,4/13/1975,Other specified anemias,Aspirin
+369,Kerwinn,Sydry,23,Male,8/8/1917,Partial traumatic amputation at elbow level,Folic Acid
+370,Mari,Oyley,25,Female,9/13/1967,"Nondisp fx of l tibial spin, subs for clos fx w delay heal",Whole Bean Cacao
+371,Madalena,Dommersen,44,Female,4/12/1906,"Other specified disorders of tendon, right ankle and foot",Sodium Fluoride
+372,Marget,Pryde,57,Female,7/30/1907,"Occls and stenosis of precerb art, not rslt in cereb infrc",Triclosan
+373,Herb,Yakobovitz,103,Male,9/30/1921,"Pasngr in 3-whl mv inj in clsn w statnry obj nontraf, init",TRICLOSAN
+374,Dorena,Manchester,57,Female,8/22/1943,"Explosn of bomb place dur war op but expld after, civ, init",Meperidine Hydrochloride
+375,Kristyn,McKoy,44,Female,7/23/2008,"Pnctr w/o fb of abd wall, left low q w penet perit cav, subs",Miconazole nitrate
+376,Pegeen,Blanchard,77,Female,7/20/2004,Unspecified malignant neoplasm of skin of trunk,irbesartan and hydrochlorothiazide
+377,Misha,Walework,34,Female,12/24/2005,Athscl unsp type bypass of the extremities w intrmt claud,"Octinoxate, Titanium Dioxide"
+378,Brittany,Flewin,82,Female,8/2/1915,Amblyopia ex anopsia,Cladosporium cladosporioides
+379,Leroi,Nail,99,Male,8/2/1932,"Oth inflammatory spondylopathies, cervicothoracic region",bismuth subsalicylate
+380,Fawne,Frudd,20,Polygender,2/13/1967,Driver of bus injured in collision w oth and unsp mv nontraf,Nisoldipine
+381,Eleanora,MacKniely,25,Female,6/20/1936,"Burn first deg mult left fingers (nail), not inc thumb, subs",Nitrogen
+382,Peggy,Ousley,13,Female,11/29/1965,"Nondisp suprcndl fx w intrcndl extn lower end r femur, init",Isopropyl Alcohol
+383,Colet,Fayter,103,Genderfluid,2/24/2003,"Blister (nonthermal), unspecified hip, sequela",PREDNISONE
+384,Burtie,Wiles,93,Male,8/2/1989,Other specified injury of intercostal blood vessels,"Avobenzone, Octinoxate, Octisalate, Octocrylene, Oxybenzone"
+385,Korella,Van Der Weedenburg,64,Female,1/6/2000,"War operations involving unsp effect of nuclear weapon, milt",Gemfibrozil
+386,Dietrich,Horribine,17,Bigender,1/15/1978,"Lacerat extn musc/fasc/tend l mid finger at wrs/hnd lv, subs","Lanolin, Petrolatum"
+387,Davin,Heales,69,Genderfluid,12/8/1955,"Contact with powered kitchen appliance, sequela",TITANIUM DIOXIDE
+388,Ranna,Pawnsford,62,Female,9/1/1948,"Unsp fracture of left forearm, init for opn fx type 3A/B/C",Naphazoline Hydrochloride
+389,Dorette,Prevost,25,Female,8/16/1945,Other displaced fracture of lower end of unspecified humerus,Treatment Set TS329750
+390,Pippo,Cron,20,Male,10/21/1924,"Displ transverse fx unsp patella, 7thJ",Carbamazepine
+391,Tye,Malby,27,Male,1/29/1973,"Oth fx upr & low end l fibula, subs for clos fx w routn heal",MITOXANTRONE HYDROCHLORIDE
+392,Tomasine,Hambleton,59,Female,5/27/1903,"Corrosion of unspecified degree of right elbow, init encntr","Calcium Chloride, Magnesium Chloride, Dextrose monohydrate, Lactic Acid, Sodium Chloride, Sodium Bicarbonate, and Potassium Chloride"
+393,Hersch,O'Lehane,83,Male,5/2/2006,"Traumatic cerebral edema w LOC of 30 minutes or less, init",Ammonium Lactate
+394,Edward,Braven,27,Male,3/8/1998,Rheumatoid heart disease with rheumatoid arthritis,calcium carbonate
+395,Addy,Ghidini,66,Female,9/5/2016,"Nondisp fx of med phalanx of r lit fngr, 7thK",sus scrofa small intestine mucosa lymph follicle
+396,Erskine,Cudde,115,Male,5/19/1979,Athscl autologous vein CABG w ang pctrs w documented spasm,B-SURE Traveler
+397,Amye,Lebbon,57,Female,5/29/1934,Gambling and betting,"OCTINOXATE, TITANIUM DIOXIDE, OCTOCRYLENE"
+398,Evelina,Mulderrig,6,Female,6/23/1929,Microgenia,Nonoxynol-9
+399,Curry,Croome,6,Genderqueer,7/29/1948,"Unspecified purulent endophthalmitis, right eye",aspirin
+400,Pet,Salerno,7,Female,1/17/1983,"Nondisp seg fx shaft of r fibula, 7thF",Chloroxylenol
+401,Maia,Pigram,82,Female,6/1/1954,"Abscess of bursa, unspecified hand",griseofulvin
+402,Sander,Tookill,42,Male,11/20/1969,"Poisoning by oth drug/meds/biol subst, self-harm, init",Turnip
+403,Felice,Gartan,72,Female,9/13/1963,"Poisoning by amphetamines, intentional self-harm, subs",Sodium Chloride
+404,Guinna,Cardillo,116,Female,10/12/2003,Presence of other devices,"Acetaminophen, Dextromethorphan HBr, Doxylamine succinate"
+405,Katrine,Klimentyev,19,Female,1/23/1902,"Nondisplaced oblique fracture of shaft of left radius, init",INTERLEUKIN-5
+406,Elijah,de Banke,47,Male,8/25/2010,Hematoma of broad ligament,Sodium Chloride
+407,Edwin,Haldon,5,Male,2/26/1972,"Breakdown (mechanical) of urinary devices and implants, subs",Ramipril
+408,Marti,Harget,23,Bigender,4/17/1965,"Oth fx lower end unsp tibia, subs for clos fx w routn heal",Spasms Weakness
+409,Deanna,Pardie,68,Female,11/18/1941,"Person outsd hv veh inj in clsn w ped/anml nontraf, sequela","Ferrum phos, Nat mur, Belladonna, Alium cepa, Arsenicum iod"
+410,Berkley,McIndoe,82,Male,8/23/2005,Burn of first degree of unspecified ankle,GLYCERIN
+411,Meggi,Dunphie,45,Female,9/17/2011,"Contus/lac/hem brnst w LOC w dth d/t oth cause bf consc,sqla","Baptisia Tintoria Root, Echinacea Angustifolia, Eupatoriom Perfoliatum Flowering Top, Lomatium Dissectum Root, Pueraria Montana Var. Lobata Root, Trifolium Pratense Flower, Pnytolacca Americana Root, Onion, Arsenic Triiodode, Barium Carbonate, Bromide, Oyster Shell Calcium Carbonate Crude, Potassium Chloride, Mercurius Solubilis, Silicon Dioxide"
+412,Brooke,Morfell,61,Female,11/17/1953,"Fall due to clsn betw fish boat and oth wtrcrft/obj, sequela",Hydroquinone
+413,Lanie,Hayto,9,Male,7/19/1949,Superficial (capsular) laceration of spleen,Loratadine
+414,Hamlen,Korneichuk,115,Male,1/22/1964,"Postdysenteric arthropathy, multiple sites","butalbital, aspirin, caffeine and codeine phosphate"
+415,Kaitlin,Tanman,59,Female,4/17/2000,Non-prs chr ulcer of right heel and midfoot w necros bone,SULFUR
+416,Ruttger,Friday,31,Male,9/11/1946,"Nondisplaced Type II dens fracture, init for clos fx",Oxymorphone Hydrochloride
+417,Alice,Bewicke,86,Female,5/23/2003,"Displ spiral fx shaft of humer, r arm, 7thK",Stavudine
+418,Arman,McKenna,90,Male,5/25/1998,Driveway of nursing home as place,Simethicone
+419,Sandye,Janczak,21,Female,4/4/1908,Burn of unspecified degree of right lower leg,Arnica montana
+420,Griffith,Huxster,68,Male,4/10/1923,Monteggia's fracture of left ulna,cinacalcet hydrochloride
+421,Harriot,Baroc,105,Female,6/4/1966,"Contact with unspecified agricultural machinery, init encntr",OCTINOXATE and TITANIUM DIOXIDE
+422,Tristam,Cardew,3,Male,7/14/1948,"Underdosing of coronary vasodilators, subsequent encounter",PYRITHIONE ZINC
+423,Far,Lamberth,43,Male,11/21/2021,Unstable burst fracture of first cervical vertebra,Aspirin
+424,Irina,Muddimer,23,Female,3/13/1998,"Unsp opn wnd abd wall, right lower q w penet perit cav",Pramipexole Dihydrochloride
+425,Worden,de Castelain,14,Male,11/7/1918,Other dislocation of left radial head,Haloperidol
+426,Cordie,Youle,13,Female,11/9/1950,Contus/lac/hem crblm w loss of consciousness of 31-59 min,teduglutide
+427,Curtis,Tudbald,74,Male,7/17/1988,Transitory disord of carbohydrate metab specific to newborn,"Aloe socotrina, Antimonium cruda, Arsenicum album, Belladonna, Bryonia album, Chamomilla, Colocynthis, Podophyllum peltatum, Veratrum album"
+428,Seumas,Noice,112,Male,4/19/2017,"Prsn brd/alit pk-up/van inj in nonclsn trnsp acc, sequela","Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone"
+429,Ruprecht,Hogbourne,39,Male,3/16/1929,"Toxic effect of contact w oth venom animals, acc, sequela","AVOBENZONE,OCTOCRYLENE,OCTINOXATE,OXYBENZONE,OCTISALATE"
+430,Elyn,Phillips,59,Female,11/17/2015,"Displ commnt fx shaft of ulna, unsp arm, 7thP",dorzolamide hydrochloride
+431,Nefen,Riping,37,Male,9/12/1971,"Sprain of interphalangeal joint of right middle finger, subs","Levomefolate Calcium, Pyridoxal 5-Phosphate, and Methylcobalamin"
+432,Sargent,Geratt,90,Male,12/9/1924,Adolescent scoliosis,"Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone"
+433,Adelbert,Keeffe,75,Male,4/8/1984,"Leakage of cranial or spinal infusion catheter, sequela",Lithium Carbonate
+434,Avrom,McAlester,112,Male,8/31/1901,"Colles' fx left rad, subs for opn fx type 3A/B/C w malunion",POVIDONE-IODINE
+435,Ciro,Croydon,97,Agender,1/13/2004,"Sprain of metacarpophalangeal joint of right thumb, sequela",Polyethylene Glycol 3350
+436,Brien,Broxap,36,Male,1/13/1995,"Wedge comprsn fx unsp thor vertebra, init for opn fx",nicotine polacrilex
+437,Esdras,Shannahan,27,Male,2/23/1978,Unspecified lack of coordination,topotecan hydrochloride
+438,Lanae,Esson,115,Female,12/11/1934,"Monteggia's fracture of right ulna, init for opn fx type I/2",Nystatin
+439,Irv,Coltman,119,Male,5/2/1900,"Nondisp seg fx shaft of l femr, 7thN","Sodium Ascorbate, Cholecalciferol, di-alpha-Tocopheryl Acetate, Thiamine Mononitrate, Riboflavin, Niacinamide, Pyridoxine HCL, Folic Acid, Cyanocobalamin, Calcium Formate, Calcium Carbonate, Ferrous ("
+440,Lesley,Aburrow,28,Male,3/16/1960,Personal history of in utero procedure while a fetus,BENZTROPINE MESYLATE
+441,Lynna,Tribell,41,Female,8/9/1989,"Oth injury of blood vessel of other finger, init encntr",Naproxen Sodium
+442,Bennett,Cantu,102,Male,11/22/1982,"Toxic effect of unsp substance, accidental, sequela","cocoa butter, phenylephrine hcl"
+443,Maybelle,Scotland,67,Female,7/6/1950,"Disp fx of lateral condyle of unsp tibia, 7thR",Lithium Carbonate
+444,Madlin,Moretto,62,Female,12/19/1952,"Arthropathy following intestinal bypass, shoulder",MENTHOL
+445,Appolonia,Kennsley,9,Female,1/22/1905,"Pathological fracture, left foot",Fexofenadine Hydrochloride
+446,Alison,Ible,25,Female,3/24/1975,"Other burn on board fishing boat, initial encounter",chaetomium globosum
+447,Maurizia,Pindell,98,Genderqueer,4/12/1921,"Nondisp fx of middle third of navic bone of r wrist, init",Morrhuate Sodium
+448,Alaster,Woodrup,95,Male,2/12/1981,"Unspecified physeal fracture of unspecified metatarsal, 7thG",Arroyo Willow
+449,Zachariah,Alonso,109,Male,9/26/1902,Congenital cataract,Lenscale
+450,Elberta,Blumer,56,Polygender,1/15/1950,"Inj l int crtd,intcr w LOC >24 hr w/o ret consc w surv, subs","Aluminum hydroxide, Magnesium hydroxide, Simethicone"
+451,Fredek,Barajaz,118,Male,10/31/1986,"Contact with hot drinks, initial encounter",Diclofenac Sodium
+452,Camile,Galia,58,Female,9/16/1976,"Assault by pushing from high place, initial encounter",benzalkonium chloride
+453,Tiena,Dahler,14,Female,6/10/1987,Complete traumatic amputation of one lesser toe,Casein
+454,Sabine,Van der Beken,83,Female,11/15/2004,"Posterior subluxation of right hip, initial encounter",Coal Tar
+455,Carmelina,Lund,7,Genderfluid,9/29/2002,Other specified postprocedural states,Acetaminophen
+456,Angelica,Ferney,117,Bigender,12/10/1942,"Poisoning by oth psychotropic drugs, accidental, sequela",Menthol
+457,Sheilakathryn,Lantoph,13,Female,1/20/1911,"Corrosion of unsp degree of abdominal wall, subs encntr",SODIUM FLUORIDE
+458,Niccolo,Light,56,Male,4/23/1940,"Displ artic fx head of unsp femr, 7thR","Drosera 30C, Spongia 30C, Kali Carbonicum 30C, Phospherous 30C, Ipeacacuhuana 30C, Pulsatilla 30C, Belladonna 30C"
+459,Colman,Elner,40,Male,10/21/1998,"Unsp superficial injury of left ring finger, subs encntr","Acetaminophen, Aspirin, Caffeine"
+460,Kylie,Chsteney,24,Female,11/30/1946,Thrombolytic drugs,zinc oxide and octinoxate
+461,Kort,Tuke,28,Male,12/1/1936,Family history of psychoactv substance abuse and dependence,SAMBUCUS NIGRA FLOWER CALENDULA OFFICINALIS FLOWER PINE NEEDLE OIL (PINUS SYLVESTRIS)
+462,Sheilah,Moneypenny,4,Female,5/17/1947,"Unspecified injury of abdominal aorta, initial encounter",Hydrochlorothiazide
+463,Cordie,Chavrin,83,Male,4/1/1927,Human immunodeficiency virus disease complicating childbirth,clindamycin phosphate
+464,Joshia,Brazer,53,Male,11/23/1914,"Displaced fracture of distal phalanx of left thumb, sequela",quetiapine fumarate
+465,Rayshell,Burkett,59,Female,6/21/1989,"Motorcycle rider (driver) injured in unsp nontraf, sequela",HIPPOMANE MANCINELLA FRUITING LEAFY TWIG
+466,Fitzgerald,Whissell,85,Male,5/28/1968,"Acute eczematoid otitis externa, left ear",Acetaminophen
+467,Wilek,Grinvalds,41,Male,1/2/1930,Calculus of bile duct w acute and chr cholangitis w/o obst,"Octinoxate, Octocrylene, Oxybenzone, and Octisalate"
+468,Braden,Gillison,7,Male,8/18/1936,"Superficial foreign body, unspecified thigh, sequela",darbepoetin alfa
+469,Philippe,Pane,45,Polygender,2/8/1900,"Oth injury due to oth acc on board fishing boat, sequela",OCTINOXATE and TITANIUM DIOXIDE
+470,Chalmers,Walbrun,28,Male,12/25/1993,"Breakdown (mechanical) of int fix of bones, subs",Buspirone hydrochloride
+471,Rosaline,Seeman,64,Female,8/11/1956,"Nondisp fx of nk of 4th MC bone, r hand, 7thD",DEXTROSE and POTASSIUM CHLORIDE
+472,Spencer,Wightman,19,Male,6/24/2011,"Unspecified fracture of right wrist and hand, sequela",Rice
+473,Salomo,Hughson,80,Genderfluid,7/28/1947,Supervision of young primigravida and multigravida,"ISOMETHEPTENE MUCATE, DICHLORALPHENAZONE, and ACETAMINOPHEN"
+474,Karmen,Steckings,17,Female,1/29/2009,"Other specified arthritis, unspecified wrist",Enalapril Maleate
+475,Karel,Horley,115,Female,6/25/1996,"Lacerat abd wall w fb, periumb rgn w/o penet perit cav, subs",Ammonia 2%
+476,Alvie,Antram,20,Male,4/10/1934,Shiga toxin E coli (STEC) O157 causing dis classd elswhr,OXYCODONE HYDROCHLORIDE
+477,Prinz,Prebble,39,Male,6/26/2015,"Lacerat abd wall w fb, l upr q w/o penet perit cav, sequela",losartan potassium
+478,Anne,Bande,116,Female,2/8/2003,"Poisoning by butyrophen/thiothixen neuroleptics, accidental",Pneumococcal 7-valent
+479,L;urette,Fidell,118,Female,4/11/1979,Malignant neoplasm of labium minus,Bismuth subsalicylate
+480,Heloise,Spraging,1,Female,11/3/1944,Superficial foreign body of unspecified elbow,ALPHA.1-PROTEINASE INHIBITOR HUMAN
+481,Tallie,Clow,41,Male,4/5/1922,"Undrdose of primarily systemic and hematolog agents, sequela",Paroxetine Hydrochloride Hemihydrate
+482,Halimeda,Sier,8,Female,4/10/1984,Spiritual or religious counseling,TRETINOIN
+483,Gerry,Stonary,116,Female,10/12/1925,"Malocclusion, Angle's class",Banana
+484,Jsandye,Hallgarth,111,Female,10/1/1937,Blood alcohol level of 40-59 mg/100 ml,Metformin hydrochloride
+485,Elbertina,Gallaccio,59,Female,2/8/2020,"Barton's fx left radius, subs for opn fx type I/2 w nonunion","Acetaminophen, Dextromethorphan HBr, Doxylamine succinate"
+486,Selie,Geddis,87,Female,9/23/1911,"Major laceration of unspecified carotid artery, init encntr",Paroxetine
+487,Vincent,Colqueran,41,Male,3/15/2017,"Disp fx of base of fifth MC bone, r hand, init for opn fx",diltiazem hydrochloride
+488,Odie,Matissoff,64,Male,2/25/1916,"Disp fx of nk of 1st MC bone, unsp hand, 7thD",Filgrastim
+489,Esra,Warland,78,Male,12/27/1955,Other specified postprocedural states,Loratadine
+490,Therese,Queste,12,Female,12/15/1928,"Corrosion of second degree of unspecified knee, sequela",Sodium fluoride
+491,Laurella,Grece,41,Female,10/8/1922,"Superficial foreign body, left lower leg, sequela",salicylic acid
+492,Donielle,Bowsher,36,Agender,1/31/1940,"Age-related osteopor w current path fracture, l forearm",ZINC ACETATE ANHYDROUS and ZINC GLUCONATE
+493,Aurore,Reyson,109,Female,8/2/1973,"War op involving unsp explosion and fragments, civilian",Hazelnut Pollen
+494,Leonelle,Iddenden,66,Female,11/20/1930,"Oth soft tissue disorders related to use/pressure, r hand",Gabapentin
+495,Krystal,Cunio,4,Female,6/15/2005,"Displaced comminuted fx shaft of humerus, right arm, init",Amiodarone Hydrochloride
+496,Guglielma,Le Marquand,96,Female,3/10/1978,Primary respiratory tuberculosis,MATRICARIA RECUTITA ATROPA BELLADONNA ROOT TOBACCO LEAF
+497,Marguerite,Taks,0,Female,3/12/1940,Acute recurrent maxillary sinusitis,Valacyclovir Hydrochloride
+498,Consalve,Bote,16,Male,10/20/1924,"Unspecified injury of popliteal vein, left leg",HETASTARCH
+499,Rosaline,Klimushev,79,Female,5/26/1903,"Other infective bursitis, right ankle and foot",Famotidine
+500,Helsa,Godfery,59,Female,1/7/2015,Lateral subluxation of right patella,MONTELUKAST SODIUM
+501,Barbabra,Rominov,61,Female,8/15/1937,"Drown due to fall/jump fr burning water-skis, subs",ASPIRIN
+502,Bili,Elington,36,Female,2/20/1992,"Disp fx of 1st metatarsal bone, unsp ft, 7thP",Ondansetron Hydrochloride
+503,Basile,Hurdidge,11,Polygender,5/1/1992,Minor laceration of left internal jugular vein,"Acetaminophen, Dextromethorphan HBr, Doxylamine succinate, Phenylephrine HCl"
+504,Shelley,Dmisek,36,Agender,10/15/1934,"Unsp injury of musc/fasc/tend at forearm level, right arm",ACTIVATED CHARCOAL
+505,Korella,Duckers,51,Female,11/14/2008,"Unsp fracture of occiput, init encntr for closed fracture",Robitussin DM
+506,Ardelia,Pittson,91,Female,10/9/1988,"Poisoning by stimulant laxatives, accidental (unintentional)",Oxymetazoline HCl
+507,Tudor,Boak,67,Male,11/5/1927,"Disp fx of lateral malleolus of r fibula, 7thH",alcohol
+508,Martina,Breacher,5,Female,12/24/1970,"Unsp fx upr end l ulna, subs for opn fx type I/2 w nonunion",dorzolamide hydrochloride
+509,Lewie,Winterflood,101,Male,4/24/1958,Pigmentary retinal dystrophy,Liquid Wart Remover
+510,Clea,Legan,119,Female,3/29/1975,"Adhes due to fb acc left in body fol inject or immuniz, subs",dipyridamole
+511,Claudetta,LaBastida,12,Female,8/20/1959,"Other specified injury of vein at forearm level, right arm",rOPINIRole
+512,Allie,Adame,62,Agender,10/9/2008,"Inj oth blood vessels at wrs/hnd lv of left arm, init",Ultramicrosize Griseofulvin Tablets
+513,Nollie,Eallis,30,Male,5/9/1977,"Animl-ridr injured in collision w anml-drn vehicle, sequela",calcium carbonate
+514,Olivie,Mateev,103,Female,1/7/1981,Personal history of tuberculosis,TITANIUM DIOXIDE
+515,Aurelea,Dehm,66,Female,11/28/1952,"Rheumatoid nodule, unspecified hip",Metformin Hydrochloride
+516,Carr,Orring,96,Male,4/23/1909,"Sudden idiopathic hearing loss, bilateral",BENZALKONIUM CHLORIDE
+517,Harold,Eskrigg,68,Male,10/23/2003,"Walked into furniture, subsequent encounter",ISOPROPYL ALCOHOL
+518,Hartley,Roux,78,Male,1/10/1903,"Corrosion of first degree of lip(s), subsequent encounter",Lisinopril
+519,Bancroft,Normanville,43,Male,12/29/1920,"Unstbl burst fx unsp thor vertebra, subs for fx w delay heal",ATORVASTATIN CALCIUM
+520,Rodrique,Gaskell,39,Male,8/5/1962,"Unspecified complication of procedure, initial encounter",Hydralazine Hydrochloride
+521,Janel,Breedy,38,Polygender,4/8/1951,Toxic effect of organophosphate and carbamate insecticides,levonorgestrel/ethinyl estradiol and ethinyl estradiol
+522,Clemence,Bolzmann,74,Female,1/4/1984,"Unsp physeal fracture of upper end of unsp tibia, sequela",Salicylic Acid
+523,Lane,Antoniou,23,Male,2/12/1953,"Disp fx of lateral malleolus of l fibula, 7thK","Acetaminophen, Dextromethorphan HBr, Doxylamine succinate, Phenylephrine HCl"
+524,Lars,Rennard,29,Male,3/19/1988,Malignant neoplasm of lateral wall of bladder,Sodium Chloride
+525,Marisa,Whitmell,24,Female,11/25/2016,Acc pnctr & lac of nervous sys org during a nervous sys proc,"Acetaminophen, Dextromethorphan HBr, Doxylamine Succinate"
+526,Emlynne,Salaman,7,Female,11/25/1909,"Other injury of bladder, subsequent encounter",Octinoxate and Octocrylene and Oxybenzone and Octisalate and Meradimate and Titantium Dioxide
+527,Enrichetta,Garriock,100,Female,10/5/1990,Blastomycotic meningoencephalitis,Medicated Callus Removers
+528,Renault,MacKissack,49,Male,7/26/1914,"Burn of first degree of abdominal wall, sequela",Ursodiol
+529,Hew,Overel,6,Male,11/13/1927,"Adhes due to fb acc left in body fol infusn/transfusn, subs",FAMOTIDINE
+530,Gregor,Acott,17,Male,12/28/1919,War operations involving explosion of other marine weapons,Ibuprofen
+531,Silva,Simkins,11,Female,12/31/1929,"Spontaneous rupture of other tendons, unspecified upper arm",Alcohol
+532,Kristofer,Brixey,4,Male,1/9/1904,"Nondisp transverse fx unsp patella, init for opn fx type I/2",Acetazolamide
+533,Dian,Buttrum,108,Female,10/18/2001,"Adverse effect of loop diuretics, subsequent encounter",Ethyl Alcohol
+534,Aarika,Tremontana,51,Female,11/18/2008,"Nondisp trimalleol fx r low leg, 7thQ",SILVER
+535,Cornela,Bigrigg,74,Female,8/25/2012,"Gout due to renal impairment, unspecified site","Cineraria Maritima, Euphrasia Strictica, Causticum, Calcarea phosphorica, Sepia, Calcarea flourica, Silicea"
+536,Diane-marie,Eadmead,88,Female,4/21/1982,Exposure to laser radiation,Hydrocodone bitartrate and ibuprofen
+537,Salem,Puddephatt,119,Male,7/2/2013,Oth stimulant dependence w stim-induce sexual dysfunction,Acetaminophen
+538,Rod,Wyse,84,Male,10/6/1982,"Wedge compression fracture of T9-T10 vertebra, init",cromolyn sodium
+539,Felizio,Buckham,76,Bigender,6/17/1950,Unsp injury of long flexor musc/fasc/tend thmb at wrs/hnd lv,Warfarin Sodium
+540,Gabie,Brunt,111,Male,4/8/1925,"Oth injury of other blood vessels at forearm level, unsp arm",Olanzapine
+541,Kirbie,Yarnell,12,Female,2/22/1983,"Complete oblique atypical femoral fracture, unsp leg, 7thD",Celery Apium graveolens
+542,Clarette,Crosio,100,Female,3/20/2002,"Subluxation of unsp interphaln joint of r rng fngr, init",ofloxacin
+543,Barnett,Fortoun,68,Male,11/15/2013,Dissociative fugue,Acetaminophen and DIPHENHYDRAMINE HYDROCHLORIDE
+544,Peterus,Chesterfield,93,Male,1/22/1976,"Disp fx of r radial styloid pro, 7thF",alcohol
+545,Uri,Slaght,60,Male,1/25/2000,"Equatorial staphyloma, unspecified eye",SODIUM FLUORIDE
+546,Quincy,Fumagallo,118,Male,6/15/1943,"Other injury of rectum, sequela","AVOBENZONE, OCTISALATE, OCTOCRYLENE"
+547,Melodie,Fillan,14,Female,11/18/1942,"Inj unsp msl/tnd at ankle and foot level, unsp foot, subs","GLYCERIN, DIMETHICONE"
+548,Burgess,Murtell,97,Male,11/1/2008,Perforation due to fb acc left in body following punctr/cath,Hydromorphone Hydrochloride
+549,Valle,Brockwell,38,Male,11/8/1969,Displaced fracture of medial phalanx of left middle finger,"octinoxate, octisalate, oxybenzone, titanium dioxide"
+550,Sanson,Roelvink,41,Polygender,12/22/1907,Polyp of colon,Pseudoephedrine Hydrochloride
+551,Kenon,Curuclis,16,Non-binary,10/8/1984,"Unsp injury of ulnar artery at forarm lv, right arm, subs",Hackberry
+552,Olivia,Yegorkin,28,Female,10/14/1990,"Age-rel osteopor w current path fracture, unsp ank/ft, init",SULFUR
+553,Candie,Eustanch,49,Female,11/7/1931,"Unsp injury of unsp blood vessel at shldr/up arm, unsp arm",atorvastatin calcium
+554,Ariadne,Adlard,117,Female,8/19/1923,"Secondary osteoarthritis, right elbow",MORPHINE SULFATE
+555,Florry,Willoughway,46,Female,3/4/2017,Oth parlyt synd fol ntrm intcrbl hemor aff left nondom side,ERYTHROMYCIN STEARATE
+556,Shandy,Thayre,60,Genderfluid,7/16/1989,"Occupant of anml-drn vehicle injured in clsn w mtr veh, subs",Whole Egg
+557,Nanete,Perree,74,Female,7/17/1986,"Primary cyst of pars plana, unspecified eye",interferon beta-1a
+558,Prudi,Taylder,21,Female,10/21/1926,"Mech compl of internal fixation device of left femur, init",Quetiapine Fumarate
+559,Orren,Coath,77,Polygender,11/13/1906,"Poisn by unsp agents prim act on the resp sys, slf-hrm, subs",alcohol
+560,Letty,De Hailes,109,Female,11/6/1907,"Adverse effect of dental drugs, topically applied, init",Dextromethorphan Hydrobromide and Promethazine Hydrochloride
+561,Devon,Mollitt,45,Female,6/23/1935,"Unsp retained (old) intraocular foreign body, magnetic","Acetaminophen, Phenylephrine HCl, Dextromethorphan HBr and Guiafenesin"
+562,Gareth,Fearns,101,Male,1/17/1940,Varicose veins of left lower extremity with ulcer,Casein
+563,Taffy,Lille,80,Female,11/21/1987,Dislocation of proximal interphalangeal joint of l idx fngr,False Ragweed
+564,Geoff,Hugonnet,89,Male,3/31/1996,"Primary open-angle glaucoma, bilateral, moderate stage",Baclofen
+565,Ralf,Warmisham,75,Male,3/19/1966,"Disp fx of shaft of unspecified metacarpal bone, sequela",prilocaine and epinephrine
+566,Ophelia,Featherstonhalgh,41,Female,10/28/2017,"Bitten by nonvenomous lizards, subsequent encounter",Octinoxate and Oxybenzone
+567,Batholomew,Quinnell,83,Male,10/27/1954,"Nondisp fx of less trochanter of l femr, 7thK",PHENYLEPHRINE HYDROCHLORIDE and COCOA BUTTER
+568,Yuri,Magrane,114,Genderfluid,9/22/1904,"Oth secondary chronic gout, left ankle and foot, with tophus","Codeine Phosphate, Promethazine Hydrochloride, and Phenylephrine Hydrochloride"
+569,Isidora,Kabsch,53,Female,9/27/1934,"Anaphylactic reaction due to admin blood/products, init",Acetaminophen
+570,Laureen,Frude,95,Female,4/3/1968,"Sprain of radiocarpal joint of left wrist, sequela",Robitussin Sugar Free Cough
+571,Sara,Colquete,91,Female,9/28/1981,War operations involving unsp fire/conflagr/hot subst,ETHYL ALCOHOL
+572,Adina,Laming,53,Female,6/16/2011,"Unspecified fracture of shaft of left femur, sequela",warfarin sodium
+573,Rodolph,Rigge,36,Male,10/20/1937,I/I react d/t nephrostomy catheter,Acetazolamide
+574,Engelbert,Blase,110,Male,3/10/1954,"Disp fx of triquetrum bone, r wrist, subs for fx w malunion",HELODERMA HORRIDUM VENOM
+575,Barnabas,Goatman,19,Male,1/25/1959,"Fx unsp part of r clavicle, subs for fx w routn heal",alcohol
+576,Lin,Kinsman,23,Female,3/1/1990,"Dislocation of oth carpometacarpal joint of unsp hand, subs",Naproxen Sodium
+577,Walton,Bownes,15,Male,6/8/1925,"Laceration with foreign body, unspecified hip",Alprazolam
+578,Hanni,Valentine,63,Female,12/17/1907,"Arthropathies in oth diseases classd elswhr, left knee","Arnica Montana, Echinacea (Angustifolia), Boron Glucconate, Symphytum Officinale, Hekla Lava, Calcarea Carbonica, Clacarea Fluorica, Calcarea phosphorica, Lycopodium Clavatum, Silicea."
+579,Aurea,Tolomelli,95,Female,7/6/1940,Anxiety disorder due to known physiological condition,ciprofloxacin
+580,Mendie,Loudiane,17,Male,8/28/1990,Hypertrophic disorders of skin,buprenorphine
+581,Hannie,Hitscher,26,Female,6/13/1952,"Minor laceration of tail of pancreas, subsequent encounter",Burn Relief Spray
+582,Boone,Life,117,Male,8/14/1916,"Unsp injury of femor vein at hip and thi lev, unsp leg, subs",Alcohol
+583,Andria,Shackleford,112,Female,3/29/1945,"Puncture wound without foreign body, left ankle, init encntr",Cattle Epithelium
+584,Kerry,Tripean,111,Female,8/29/1980,"Path fx in neopltc dis, unsp site, subs for fx w nonunion",morphine sulfate
+585,Sonya,Osbiston,26,Genderfluid,2/8/1969,Dissection of carotid artery,bisacodyl
+586,Kristo,Toffler,90,Male,3/19/1944,Strain of extensor musc/fasc/tend thmb at wrs/hnd lv,Octinoxate
+587,Noble,Rozenbaum,80,Male,12/20/1952,"Drug/chem diab with mild nonp rtnop with mclr edema, r eye",White Mulberry
+588,Bear,Cluely,108,Male,4/27/1928,Oth and unsp disord of breast assoc w preg and the puerp,OXYGEN
+589,Jasun,Mulvihill,54,Male,11/17/1919,"Intentional self-harm by drown while in swimming pool, init",Acetaminophen and Diphenhydramine HCl
+590,Patrizius,Cess,96,Male,5/5/1971,"Barton's fracture of left radius, sequela",Menthol
+591,Mia,Scahill,73,Agender,5/11/1933,Burn of first degree of right foot,Acetaminophen Chlorpheniramine Maleate Dextromethorphan Hydrobromide Phenylepherine Hydrochloride
+592,Bogart,Cauldwell,11,Male,4/12/1974,"Occup of 3-whl mv injured in nonclsn trnsp acc in traf, init",Titanium Dioxide
+593,Randie,Raccio,38,Male,8/29/1969,"Sltr-haris Type I physl fx low end r fibula, 7thK","Ensulizole, Octinoxate"
+594,Jenine,Hebbes,22,Female,2/19/1974,"Malignant neoplasm of tongue, unspecified",levetiracetam
+595,Kennith,Wetton,61,Male,9/30/1997,"Other fracture of occiput, unspecified side, 7thB",trifluoperazine hydrochloride
+596,Gracia,Fadden,7,Female,10/22/1976,"Corrosion of third degree of unspecified shoulder, sequela",Benzalkonium chloride
+597,Gran,Lashbrook,27,Male,8/9/1961,"Unspecified interstitial keratitis, right eye",Levetiracetam
+598,Bay,Reach,116,Male,8/23/1908,Sicca syndrome with lung involvement,Silk
+599,Cassaundra,Chappelow,118,Female,11/1/1989,"Traum subdr hem w LOC w dth d/t oth cause bef reg consc,init",Aluminum Zirconium Tetrachlorohydrex GLY
+600,Abigael,Titmarsh,77,Female,3/26/1987,Dislocation of septal cartilage of nose,Aspirin
+601,Ambur,Nugent,118,Female,8/24/1905,"Toxic effect of methanol, assault","Cimicifuga racemosa, Gelsemium sempervirens, Rhus toxicodendron,"
+602,Portie,Davley,76,Male,10/12/1907,Stenosis of bilateral lacrimal sac,"Dextromethorphan HBr, Guaifenesin, Phenylephrine"
+603,Bondie,Allam,58,Male,1/14/2019,"Poisn by unsp antieplptc and sed-hypntc drugs, assault, subs",eszopiclone
+604,Caesar,Gilbey,55,Male,6/17/2008,Contusion of unsp little finger without damage to nail,fluocinolone acetonide
+605,Baldwin,Struthers,69,Male,3/3/1903,"Lacerat unsp musc/fasc/tend at forarm lv, right arm, init",Olanzapine
+606,Benedicta,Axworthy,64,Female,4/3/1917,Cervical disc disorders,"Acetaminophen, Diphenhydramine hydrochloride, Phenylephrine hydrochloride"
+607,Wyatan,Clemoes,40,Male,3/6/1916,"Transient visual loss, unspecified eye",ANAMIRTA COCCULUS SEED
+608,Ross,Kuller,105,Male,11/12/1996,"Contusion of uterus, subsequent encounter",METHYLERGONOVINE MALEATE
+609,Sheeree,Luca,95,Female,4/10/2015,"External constriction of left upper arm, sequela",UNDECYLENIC ACID
+610,Roz,Koppelmann,62,Female,4/22/1926,"Inj ulnar artery at wrist and hand level of unsp arm, init",ustekinumab
+611,Spense,Sehorsch,93,Male,7/28/2014,Retained stone or crystalline fragments,"TITANIUM DIOXIDE, ZINC OXIDE, ARBUTIN, ADENOSINE"
+612,Clare,Bravey,31,Female,3/25/1998,"Oth nondisp fx of upper end l humer, subs for fx w nonunion",ALCOHOL
+613,Niels,Mordin,5,Male,7/28/1980,"Poisoning by predom beta-adrenocpt agonists, self-harm, init",not applicable
+614,Ives,Okell,91,Male,7/27/1978,Other nontraumatic intracerebral hemorrhage,BENZALKONIUM CHLORIDE
+615,Karolina,Mauvin,73,Female,4/15/1976,"Disp fx of olecran pro w intartic extn l ulna, 7thP",Triclosan
+616,Kamilah,Bennington,60,Female,5/30/2001,"Intcran inj w LOC of 6 hours to 24 hours, init",Viscum Crataegus
+617,Caspar,Ginty,26,Male,2/17/1938,Neuropathy in association with hereditary ataxia,metronidazole
+618,Raye,Lowde,113,Female,2/27/2003,Idiopathic aseptic necrosis of left carpus,metoprolol tartrate
+619,Finlay,Tulloch,90,Male,12/21/1959,Unspecified glaucoma,MENTHOL
+620,Pall,Tincey,64,Male,7/1/1910,"Sltr-haris Type III physl fx upr end rad, r arm, 7thK",DIGITALIS
+621,Darnall,Goare,110,Male,6/14/1908,"Syphilis complicating pregnancy, third trimester",Lactic Acid
+622,Job,Tozer,116,Genderfluid,9/28/1962,"Sltr-haris Type IV physl fx upr end humer, r arm, 7thK","Phenylephrine Hydrochloride, Dexbrompheniramine Maleate"
+623,Cloe,Hurran,55,Polygender,7/4/1951,"Displ oblique fx shaft of unsp femr, 7thK",benzocaine and menthol
+624,Wells,Plaice,46,Male,10/19/2014,"Pedestrian injured in traf involving unsp mv, subs",Salsalate
+625,Mina,Vokes,102,Female,11/9/1993,"Sublux of prox interphaln joint of l little finger, sequela",Gabapentin
+626,Stevana,Sorel,73,Female,12/3/1902,"Unsp fx shaft of unsp rad, 7thQ",Allergenic Extracts Alum Precipitated
+627,Pierre,McKellen,81,Male,8/30/1965,"Sprain of metatarsophalangeal joint of unsp great toe, init",CARISOPRODOL
+628,Ronni,MacSkeagan,76,Female,2/23/1992,Injury of other cranial nerves,Echinacea Argentum
+629,Montgomery,Milmith,42,Male,4/19/1917,Passenger in hv veh injured in collision w ped/anml nontraf,avanafil
+630,Sapphire,Thurlow,25,Female,1/22/1972,"Chalcosis, right eye",BENZALKONIUM CHLORIDE
+631,Reed,Musicka,48,Male,8/2/1964,Starvation,Fluphenazine Hydrochloride
+632,Basil,Hearle,75,Male,9/22/1970,Unspecified arthropod-borne viral fever,"OCTINOXATE, OXYBENZONE"
+633,Alli,Kimmings,37,Female,1/3/1952,Other specified congenital malformations of skin,chloroxylenol
+634,Lezlie,Pedersen,97,Female,5/11/1908,Citrullinemia,"Octinoxate, Octisalate, Oxybenzone"
+635,Agnesse,Cham,83,Female,4/11/1976,"Lacerat intrinsic musc/fasc/tend r thm at wrs/hnd lv, init",Bisacodyl
+636,Maris,Armitage,53,Female,12/24/1935,"Type III traum spondylolysis of 4th cervcal vert, 7thD",SULFUR
+637,Erina,Bolletti,81,Agender,4/17/1927,"Poisoning by, adverse effect of and underdosing of narcotics",triamcinolone acetonide
+638,Rosemaria,Ismirnioglou,112,Female,7/20/1969,"Foreign body in other parts of genitourinary tract, sequela",Carisoprodol
+639,Marcelle,Walas,104,Female,9/5/1934,Alcoholic gastritis with bleeding,Triclosan
+640,Meagan,Gilbart,113,Female,8/14/1995,"Poisoning by unsp drug/meds/biol subst, assault, sequela",ropinirole
+641,Tabby,Amberger,104,Male,9/15/1914,"Displ transverse fx unsp acetab, subs for fx w delay heal",Oxymorphone hydrochloride
+642,Collen,Schneidau,87,Female,2/5/1954,Other congenital malformations of gallbladder,Methylprednisolone
+643,Roanne,Caneo,45,Female,8/18/1971,"Acute embolism and thombos unsp deep veins of low extrm, bi",Medicated Callus Removers
+644,Jackqueline,Tabb,99,Female,9/22/2009,"Contusion of urethra, initial encounter",CEFTRIAXONE
+645,Emelen,Liebmann,28,Male,5/13/1986,Other mechanical complication of unspecified vascular grafts,Aspirin
+646,Angy,Graeme,4,Female,11/16/1974,Contusion of anus,amlodipine besylate
+647,Elihu,Agirre,0,Male,12/13/1918,"Nondisp seg fx shaft of unsp tibia, 7thE",Levothyroxine Sodium
+648,Isador,Crassweller,114,Male,10/5/2005,"Sprain of interphalangeal joint of left thumb, init encntr",telmisartan
+649,Lockwood,Mollett,59,Male,8/26/1967,"Unspecified traumatic cataract, unspecified eye","Olibanum, Thuja Occidentalis, Gelsemium Sempervirens, Red Cedar, Allium Cepa, Antimonium Tartaricum, Hepar Sulphuris Calcareum, Juniperus Communis."
+650,Jesus,Kynton,48,Male,4/8/1979,"Occupant of streetcar injured in oth transport acc, sequela","Glycerin, Dimethicone"
+651,Arny,Delahunty,111,Male,2/19/1936,"Struck by cow, subsequent encounter",Hydrochlorothiazide
+652,Amargo,Steanson,67,Female,9/8/1978,"Fx unsp phalanx of right thumb, subs for fx w delay heal",ondansetron
+653,Elvera,Geldart,4,Female,9/24/1920,"Corrosion of third degree of left elbow, subs encntr","acetaminophen, dextromethorphan hydrobromide, guaifenesin, and phenylephrine hydrochloride"
+654,Massimo,Akitt,92,Male,3/24/1911,"Contact with steam and hot vapors, undetermined intent","BENZOCAINE, RESORCINOL"
+655,Worth,Ghidelli,80,Male,12/19/1990,Other disorders of peritoneum,Famotidine
+656,Sully,Medgwick,39,Male,7/7/2011,Injury of unspecified blood vessel at neck level,ibuprofen
+657,Elton,Bosomworth,13,Bigender,1/6/1928,Corrosion of unspecified degree of ankle and foot,Sodium Fluoride
+658,Hetty,Goult,101,Female,12/9/1983,"Complete transverse atyp femoral fracture, right leg, 7thG",POLYETHYLENE GLYCOL 3350
+659,Erny,Nanetti,96,Male,7/11/1970,"Burn of second degree of left thigh, initial encounter",sumatriptan succinate
+660,Viviana,Jain,48,Female,7/27/2013,"Unsp fx low end unsp ulna, 7thN",Bismuth subsalicylate
+661,Jerrilyn,Kem,26,Female,12/25/1955,"Gestational diabetes in childbirth, insulin controlled","Acetaminophen, Diphenhydramine HCl"
+662,Harry,Palek,12,Male,4/11/1949,"Type 2 fracture of sacrum, subs for fx w delay heal",Hazelnut
+663,Archie,Barlass,51,Male,10/12/1995,"Bent bone of left ulna, subs for clos fx w delay heal","TITANIUM DIOXIDE, OCTINOXATE"
+664,Pietrek,Rosewell,88,Male,4/3/1948,"Maternal care for excess fetal growth, first tri, fetus 4",hydrocodone bitartrate and homatropine methylbromide
+665,Wittie,Jertz,20,Polygender,5/4/1972,"Bitten by parrot, initial encounter",Metformin Hydrochloride
+666,Willow,McKeown,19,Female,12/19/1938,"Displaced dome fx unsp talus, subs for fx w routn heal",Treatment Set TS346877
+667,Merlina,Rankine,12,Female,12/22/1958,Malignant neoplasm of right acoustic nerve,Simvastatin
+668,Ilysa,Sudddard,91,Female,1/23/1940,"Poisoning by oxytocic drugs, undetermined, subs encntr",Sodium Fluoride
+669,Felic,Tidd,40,Male,6/30/1993,"Open bite of larynx, initial encounter",Homeopathic Liquid
+670,Wolfy,Ilyas,53,Male,2/10/2012,"Lead-induced chronic gout, right hand",dextromethorphan polistirex
+671,Crista,Goade,68,Female,12/17/2001,"Toxic effect of tobacco cigarettes, self-harm, sequela",nevirapine
+672,Aurelia,Essex,85,Female,1/8/1934,"Poisoning by other laxatives, undetermined, init encntr",alcohol
+673,Laney,Phillpotts,81,Male,2/15/1998,"Oth fracture of unsp lower leg, subs for clos fx w malunion",Cetirizine hydrochloride
+674,Eileen,Shilito,50,Agender,12/31/1917,Inj intrinsic musc/fasc/tend thmb at wrist and hand level,Human Immunoglobulin G
+675,Oralie,Naldrett,8,Genderqueer,12/6/1912,"Poisoning by rifampicins, accidental (unintentional), subs",Amethyst Rosa Clear Skin
+676,Karisa,Harken,14,Female,9/10/1957,"Unspecified open wound, right ankle","Lysine, Leucine, Phenylalanine, Valine, Histidine, Isoleucine, Methionine, Threonine, Tryptophan, Alanine, Arginine, Glycine, Proline, Glutamic Acid, Serine, Aspartic Acid, Tyrosine"
+677,Wendell,Wickliffe,57,Male,7/7/1901,"Toxic effect of other insecticides, intentional self-harm",Chaetomium globosum
+678,Thom,Bontoft,44,Male,6/29/1987,"Stable burst fx third thor vertebra, subs for fx w nonunion","Guaifenesin, Phenylephrine HCl, Dextromethorphan HBr"
+679,Kiri,Willoway,23,Bigender,10/17/1982,Birth injury to spleen,Erythromycin-Benzoyl Peroxide
+680,Hewe,Bolens,85,Male,1/4/2003,"Disp fx of distal phalanx of finger, subs for fx w nonunion",buprenorphine
+681,Sallyanne,McAlroy,110,Bigender,3/28/1998,"Mtrcy passenger injured in collision w unsp mv in traf, init",benzonatate
+682,Caressa,Adamowicz,15,Female,7/6/1948,Nondisplaced fracture of medial condyle of unspecified femur,"Grindelia (Robusta), Urtica urens, Ledum palustre, Staphysagria, Cedron,"
+683,Benson,Vesty,102,Male,9/7/1927,"Unsp inj unsp bld vess at abd, low back and pelv level, subs",divalproex sodium
+684,Waverly,Jeppe,109,Male,2/16/1965,"Acute promyelocytic leukemia, in relapse",OXYMETAZOLINE HYDROCHLORIDE
+685,Shawnee,Trythall,85,Female,9/16/1972,"Nondisp transverse fx shaft of humer, r arm, 7thG",Lovastatin
+686,Evelina,Johanning,107,Genderqueer,3/2/1909,"Emphysema (subcutaneous) resulting from a procedure, subs",methylprednisolone
+687,Reggie,Heugh,19,Male,9/28/1943,Crushing injury of unspecified hip with thigh,Mexiletine Hydrochloride
+688,Bernete,Stickens,91,Female,6/1/1953,"Felty's syndrome, left wrist",DOCUSATE SODIUM
+689,Luigi,Sutter,17,Bigender,2/24/1956,"Osteopathy in diseases classified elsewhere, unsp shoulder",Hydrocortisone
+690,Cindi,Ewings,39,Female,3/26/1986,Other fracture of fourth cervical vertebra,Amoxicillin
+691,Adelheid,Almon,51,Genderqueer,4/30/1962,Corros 80-89% of body surface w 30-39% third degree corros,VIROLA SEBIFERA RESIN
+692,Osborn,Ocklin,35,Male,1/28/1973,External constriction of right little finger,TITANIUM DIOXIDE
+693,Ashlan,Dei,3,Female,1/14/1932,Underdosing of intravenous anesthetics,Phytonadione
+694,Sal,Forkan,80,Male,7/31/1994,"Unsp fx low end unsp ulna, 7thE",Paroxetine hydrochloride
+695,Egor,Revell,26,Male,4/4/1954,"Legal intervnt w unsp sharp objects, suspect injured, init","Phytolacca decandra, Ehrlichia, Mycoplasma pneumoniae, Borrelia burgdorferi, Babesia microti, Coxiella burnetii, Chelidonium majus, Herpes zoster,"
+696,Aymer,Grgic,36,Male,5/22/1923,"Osteochondropathy, unspecified, unspecified ankle and foot",Ramipril
+697,Anastassia,Baudain,46,Female,11/2/1928,Diverticulum of appendix,Citrate of Magnesium
+698,Joletta,Emeline,69,Female,4/5/1943,"Dysplasia of vagina, unspecified",Flounder
+699,Fowler,MacAvaddy,70,Male,12/22/2011,Supravesical fissure of urinary bladder,minoxidil
+700,Anabella,Ashness,43,Female,12/2/1938,"Disp fx of prox phalanx of l lit fngr, 7thG","Eucalyptol, Menthol, Methyl Salicylate, and Thymol"
+701,Jeniece,Smallsman,39,Agender,7/8/1990,Worries,methimazole
+702,Aldin,Medforth,88,Male,6/16/2001,"Nondisp commnt fx shaft of l tibia, 7thN",Olanzapine
+703,Jeniffer,Grima,74,Female,8/27/1987,Other open wound of other specified part of neck,SULFUR
+704,Nancey,Spitaro,41,Female,4/24/1996,Antihyperlipidemic and antiarteriosclerotic drugs,hydroxyzine hydrochloride
+705,Brewster,Rennebach,5,Male,5/6/2003,"Minor laceration of left internal jugular vein, init encntr",TRICLOSAN
+706,Ellyn,Muncer,11,Female,5/12/2016,"Stress fracture, right fibula, subs for fx w nonunion",Acetaminophen
+707,Codie,Bletsoe,91,Male,11/8/1976,"Skeletal fluorosis, right forearm",Anti-Dark Moisturizing Cream
+708,Sam,Mazzey,98,Male,9/12/1955,"Osteonecrosis due to drugs, tibia and fibula",fexofenadine hydrochloride
+709,Sonya,Coupe,25,Female,2/8/2005,"Poisoning by unsp antidepressants, accidental, subs",Alcohol
+710,Elihu,Grumley,8,Male,5/26/1930,Unspecified hearing loss,metformin hydrochloride
+711,Madella,Haggard,76,Female,8/3/1988,"Toxic effect of detergents, undetermined, initial encounter",DOG EPITHELIA
+712,Lavena,Legier,41,Female,8/17/1928,"Oth traum nondisp spondylolysis of 5th cervcal vert, 7thK","Aconitum nap., Anacardium orientale, Arg. nit., Arsenicum alb., Cypripedium, Gelsemium, Ignatia, Kali carb., Lycopodium, Nat.mur., Phosphorus, Sambucus nig., Sepia, Staphysag., Stramonium, Tarentula hispana, Theridion, Passiflora, Valeriana"
+713,Falito,Madgin,65,Genderqueer,6/28/1968,"Legal intervnt w injury by tear gas, bystand injured, subs",Loratadine
+714,Riannon,Facey,95,Female,7/4/1900,"Driver of 3-whl mv injured in clsn w hv veh nontraf, init",chloroxylenol
+715,Oralla,Hardcastle,88,Genderqueer,2/17/1984,Sprain of unspecified part of right wrist and hand,"Ethylhexyl Dimethyl PABA, Benzophenone-3"
+716,Shaylynn,Yeaman,60,Genderqueer,3/7/1968,Oth diabetes w diabetic peripheral angiopathy w/o gangrene,Valacyclovir Hydrochloride
+717,Donny,Briamo,93,Male,2/7/1977,Underdosing of cannabis (derivatives),FUSARIUM VASINFECTUM
+718,Mildrid,Drayton,69,Polygender,4/9/1940,Calculus of bile duct w acute and chronic cholangitis w obst,"Acetaminophen, Diphenhydramine HCl"
+719,Odetta,McElwee,20,Female,4/2/1952,"Fatigue fx vertebra, thor region, subs for fx w delay heal",PRAVASTATIN SODIUM
+720,Robbert,Timlett,83,Male,12/16/2011,"Partial traumatic amp of two or more unsp lesser toes, subs",Acacia
+721,Claudell,Onyon,27,Male,4/19/1954,"Poisoning by opium, accidental (unintentional), subs encntr","CALCIUM PHOSPHATE, IRON, POTASSIUM PHOSPHATE, UNSPECIFIED FORM, MAGNESIUM PHOSPHATE, DIBASIC TRIHYDRATE, and SODIUM PHOSPHATE"
+722,Stuart,Wheway,27,Male,8/19/2016,"Poisoning by antimalari/drugs acting on bld protzoa, assault",ESZOPICLONE
+723,Maddie,Dziwisz,42,Female,11/18/1926,"Adverse effect of other anti-common-cold drugs, subs encntr",Hydroquinone
+724,Sabina,Alders,78,Female,11/30/1913,Puncture wound without foreign body of ear,"Adrenalinum, Alfalfa, Ambrosia artemisiaefolia, Anacardium orientale, Argentum nitricum, Avena sativa, Aesculus hippocastanum, flos, Calcarea carbonica, Carboneum oxygenisatum, Carpinus betulus, flos, Citricum acidum, Gelsemium sempervirens, Hypothalamus, Kali phosphoricum, Lecithin, Natrum muriaticum, Olea europaea, flos, Phosphoricum acidum, Pituitarum posterium, Selenium metallicum, Sepia, Silicea, Thyroidinum"
+725,Lucilia,Jeans,1,Female,7/29/1952,"Nondisp transverse fx shaft of r tibia, 7thP","Agnus castus, Angelica sinensis, radix, Apis mellifica, Arnica montana, Cimicifuga racemosa, Estradiol, Estriol, Folliculinum,"
+726,Calla,Terney,26,Female,7/22/2004,Phlebitis and thrombophlebitis of other sites,"BENZALKONIUM CHLORIDE, BENZOCAINE, SD ALCOHOL, BACITRACIN ZINC, NEOMYCIN SULFATE, POLYMYXIN B"
+727,Laurent,Battersby,42,Male,10/29/1959,"Toxic effect of unsp seafood, accidental (unintentional)","Avobenzone, Octisalate, and Octocrylene"
+728,Hakeem,Hanney,34,Male,10/30/1947,"Peripheral T-cell lymphoma, not classified, intra-abd nodes",Valacyclovir Hydrochloride
+729,Ban,Yexley,18,Male,8/14/1909,"Osteonecrosis due to drugs, pelvis","Chlorpheniramine maleate, Pseudoephedrine"
+730,Jerrie,Gillion,89,Female,5/9/1959,"Nondisp fx of greater tuberosity of l humer, 7thP","Dibasic sodium phosphate, Monobasic sodium phosphate"
+731,Jo-anne,Ells,28,Female,11/4/1905,Hereditary lymphedema,Ketorolac Tromethamine
+732,Baily,Hanne,117,Male,1/31/1989,"Major laceration of abdominal aorta, initial encounter",estradiol
+733,Alvie,Grocott,4,Male,12/2/1957,Other disorders of optic disc,ZINC OXIDE
+734,Charlot,Ashard,4,Female,4/6/2021,"Unsp open wound of abd wall, periumb rgn w penet perit cav",ATORVASTATIN CALCIUM
+735,Laurie,Curman,96,Male,12/10/1918,"Lacerat flexor musc/fasc/tend r thm at forarm lv, sequela","OCTINOXATE, TITANIUM DIOXIDE"
+736,Abra,Harmes,109,Female,1/19/2003,Puncture wound with foreign body of unspecified wrist,Cetirizine hydrochloride
+737,Stephi,Cutbush,117,Female,1/19/2002,Laceration of other specified intrathoracic organs,bupropion hydrochloride
+738,Kimberly,Gander,106,Female,1/11/1963,"Inj adductor muscle, fascia and tendon of left thigh",White Poplar
+739,Caren,Corkan,70,Female,8/29/1951,Nondisplaced midcervical fracture of left femur,hydrocortisone
+740,Benyamin,MacGeaney,16,Male,2/27/1967,"Unsp intracap fx unsp femr, 7thR",Acetaminophen and Phenylephrine Hydrochloride
+741,Esteban,Humpage,38,Male,2/21/1972,"Nondisp fx of posterior process of unsp talus, init",Ethyl Alcohol
+742,Else,Juszkiewicz,51,Female,1/1/2007,Corrosion of third degree of elbow,petrolatum
+743,Carlita,Milbank,34,Female,7/23/2008,"Oth fx upper end unsp tibia, subs for clos fx w routn heal",Oxygen
+744,Sharleen,Baily,119,Female,8/9/1996,Anterior disp fx of sternal end of unspecified clavicle,Levetiracetam
+745,Isidora,Verey,75,Female,1/21/1949,"Nondisp oblique fx shaft of r fibula, 7thR",Salicylic Acid
+746,Doy,De Lacey,110,Male,9/12/1957,Sucrase-isomaltase deficiency,NITROUS OXIDE
+747,Nilson,Stredder,15,Male,3/13/1959,"Cocaine use, unsp with cocaine-induced anxiety disorder",Ramipril
+748,Drugi,Knowlton,59,Male,11/23/1989,Neonatal diabetes mellitus,SODIUM BICARBONATE
+749,Durward,Skeggs,92,Male,9/5/1924,"Toxic effect of sulfur dioxide, undetermined, subs encntr",Furosemide
+750,Farrah,Northeast,31,Female,5/5/1957,Polyp of right middle ear,Olanzapine
+751,Celka,Dentith,8,Female,5/4/1987,Other disorders of amniotic fluid and membranes,Lamotrigine
+752,Elisha,Cowely,108,Male,4/20/1983,"Tox eff of corrosv alkalis and alk-like substnc, undet, init","Avobenzone, Octinoxate, Octisalate, and Oxybenzone"
+753,Emmi,Tal,70,Bigender,9/22/2007,"War operations involving unsp dest arcrft, civilian, subs",ETHYL ALCOHOL
+754,Haleigh,Thorndycraft,100,Female,1/5/1960,"BMI pediatric, 5th percentile to less than 85% for age",venlafaxine
+755,Marlin,Mewitt,64,Male,8/26/1949,"Unsp inj great saphenous at hip and thi lev, unsp leg, subs",Salicylic Acid
+756,Elvyn,Roseaman,68,Male,12/4/1963,"Contact with nail gun, initial encounter",OCTINOXATE and ZINC OXIDE
+757,Violetta,Lamers,64,Non-binary,7/12/1901,Breakdown (mechanical) of umbrella device,Guaifenesin
+758,Rufe,Winslett,84,Male,8/8/2018,"Other cervical disc disorders, cervicothoracic region",Magesium Citrate
+759,Rickey,Swyre,112,Male,10/5/1982,Pneumonia due to other staphylococcus,AMOXICILLIN
+760,Faustine,Thorald,100,Female,5/18/1950,"Fracture of orbital floor, unspecified side, 7thG","BENZALKONIUM CHLORIDE, LIDOCAINE, BACITRACIN ZINC, NEOMYCIN SULFATE, POLYMYXIN B SULFATE, WATER, BENZOCAINE, ALCOHOL, IBUPROFEN, ACETAMINOPHEN, ASPIRIN, ISOPROPYL ALCOHOL"
+761,Marie,Maddra,114,Female,6/29/2014,"Displ transverse fx shaft of r rad, 7thE",Paricalcitol
+762,Sunny,Purvess,107,Agender,7/10/1943,Corrosion of unspecified degree of right wrist,"Dextroamphetamine saccharate, Amphetamine aspartate, Dextroamphetamine sulfate, and Amphetamine sulfate"
+763,Avrom,covino,63,Male,6/6/1952,Unspecified atelectasis of newborn,Alcohol
+764,Jorry,Nockles,73,Female,7/30/1967,"Corrosion of first degree of scalp [any part], sequela",ziprasidone hydrochloride
+765,Yanaton,Giacubbo,79,Male,4/12/1949,"Open bite of larynx, subsequent encounter",CETYLPYRIDINIUM CHLORIDE
+766,Dalston,Gaunter,118,Male,10/15/2005,"Poisn by slctv serotonin reuptake inhibtr, slf-hrm, sequela",MICONAZOLE NITRATE
+767,Arluene,Berndsen,112,Polygender,8/9/1912,"Thrombosis due to nervous system prosth dev/grft, sequela",Bethanechol Chloride
+768,Tatiana,Elvish,102,Bigender,5/5/1939,"Displ seg fx shaft of r tibia, 7thQ",Sodium Fluoride
+769,Korie,Sharrocks,47,Female,9/19/1951,Diaphragmatic hernia with gangrene,menthol
+770,Ed,Bamlet,22,Male,1/8/1974,"Other fracture of right foot, 7thK",Allscale
+771,Anatole,Chopy,99,Male,5/20/1914,"Pauciarticular juvenile rheumatoid arthritis, vertebrae",Balsam Poplar
+772,Jaquelin,Snassell,28,Female,2/13/1969,"Poisoning by anticoagulants, accidental, init","OCTINOXATE, TITANIUM DIOXIDE"
+773,Patrizia,Dumbrall,43,Female,6/5/1980,"Superficial foreign body, right hip, subsequent encounter",varenicline tartrate
+774,Nannie,Van Leijs,18,Polygender,6/18/1995,"Disp fx of proximal phalanx of left great toe, init",Aluminum Zirconium Trichlorohydrex Gly
+775,Ketty,Marcinkus,43,Female,6/29/1992,"Contusion of right front wall of thorax, subs encntr",Amlodipine besylate and Atorvastatin calcium
+776,Timotheus,Dukesbury,112,Male,4/18/1918,Oth and unsp adhes and disruptions of iris and ciliary body,BELLIS PERENNIS
+777,Pauletta,Twallin,106,Female,11/26/2018,"Unsp superficial injury of scrotum and testes, init encntr",Miconazole nitrate
+778,Cordell,Fahrenbach,12,Male,1/21/1992,"Nondisp commnt fx shaft of rad, r arm, 7thF",Menthol
+779,Abbey,Rudall,74,Female,7/5/2013,"Displaced bicondylar fracture of left tibia, sequela",Aluminum Zirconium Tetrachlorohydrex GLY
+780,Jacquie,Lubeck,55,Female,12/16/1978,Athscl native arteries of extremities w intermittent claud,Olanzapine
+781,Stinky,Gilby,69,Agender,10/22/1940,"Intcran inj w LOC >24 hr w ret consc lev, subs",Cattle Hair and Dander
+782,Donella,Kilfoyle,54,Female,7/24/2006,"Other contact with other rodent, subsequent encounter",Menthol
+783,Lance,Archbould,85,Male,4/24/1952,"Underdosing of antihyperlip and antiarterio drugs, init",Eszopiclone
+784,Nicolina,Magog,56,Female,11/28/1966,"Major lacerat great saph at hip and thi lev, left leg, sqla",Fluvoxamine Maleate
+785,Arman,Spain,49,Male,2/12/1907,Nondisplaced fracture of lesser tuberosity of left humerus,"Kali Muriaticum, Gelsemium, Kali Bichromicum, Sabadilla, Histaminum, Mold Mix."
+786,Doreen,McGahy,18,Female,4/11/1958,Sprain of interphalangeal joint of right lesser toe(s),Brome Grass
+787,Derek,Dengate,68,Male,2/24/2010,Sprain of tarsal ligament of foot,Naproxen Sodium
+788,Lucine,Dargue,21,Female,12/6/1989,Athscl autol vein bypass of the right leg w ulcer of thigh,Risperidone
+789,Simone,Mebes,24,Female,10/12/1922,"Sltr-haris Type III physeal fx lower end radius, unsp arm",Ibuprofen
+790,Gabriel,Ponsford,81,Female,10/15/2011,"Strain flxr musc/fasc/tend r little fngr at forarm lv, sqla",propranolol hydrochloride
+791,Gabriello,Adolphine,29,Male,11/10/1931,"Struck by falling object on sailboat, sequela",lansoprazole
+792,Daveta,Haacker,11,Female,4/1/1937,Lupus anticoagulant syndrome,Prednisone
+793,Zenia,Boxen,39,Female,11/2/2002,"Other secondary osteonecrosis, unspecified humerus",hydrocodone bitartrate and acetaminophen
+794,Carleen,de Pinna,56,Female,1/20/1953,Burn and corrosion of other internal organs,Salicylic Acid
+795,Merrill,Tilburn,72,Female,4/25/1929,"Disp fx of pisiform, right wrist, subs for fx w nonunion","Agaricus musc., Arsenicum alb., Aur. met., Berber. aqui., Caladium seguinum, Candida albicans, Cantharis, Conium, Graphites, Helonias dioica, Hydrastis, Kali carb., Kreosotum, Lycopodium, Merc. viv., Murex purpurea, Nat. mur., Nitricum ac., Pulsatilla, Rhus toxicodendron, Sepia, Sulphur, Tarentula hispana, Thuja occ., Zinc. met., Apis mel., Hamamelis"
+796,Ray,Gayton,4,Female,7/2/1915,Burn of first degree of right elbow,metronidazole
+797,Jereme,Leaman,69,Male,11/6/1969,"Lacerat extn musc/fasc/tend unsp finger at wrs/hnd lv, sqla",oxycodone hydrochloride
+798,Quillan,Telford,119,Male,1/15/2008,"Pre-exist hyp chronic kidney disease comp preg, first tri","Camphor, Methyl Salicylate"
+799,Babbette,Titcomb,111,Female,9/5/2017,"Complete traumatic amputation of left breast, init encntr","Acetaminophen, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride"
+800,Miner,Pegler,82,Male,10/17/1952,Pressure ulcer of other site,Natural Progesterone
+801,Ramsey,Ceccoli,52,Male,7/19/1938,"Coma scale, eyes open, spontaneous, EMR",Paricalcitol
+802,Bryon,Gernier,20,Male,2/22/1943,Healthy person accompanying sick person,calcium carbonate
+803,Johnny,Tidmarsh,32,Male,2/25/1925,Traumatic amputation at shoulder joint,Fluoxetine
+804,Ninon,Physick,48,Female,6/8/1947,Burn of unspecified degree of right knee,hydrocortisone
+805,Des,Feuell,102,Genderfluid,6/23/1950,"Sltr-haris Type II physeal fx left metatarsal, sequela",Fluphenazine Hydrochloride
+806,Eugen,Gyer,37,Male,4/4/1970,"Other specified dorsopathies, occipito-atlanto-axial region","OCTINOXATE, TITANIUM DIOXIDE"
+807,Rosaleen,Coules,120,Female,3/3/1902,"Nondisp transverse fx shaft of unsp rad, 7thR",GABAPENTIN
+808,Binky,Lefeuvre,112,Agender,2/10/1952,"Struck by alligator, initial encounter",Horse Epithelium
+809,Becky,McGhee,109,Female,6/1/2017,"Recurrent dislocation, unspecified foot",Acetaminophen
+810,Vilhelmina,Cartwight,37,Female,6/10/1907,"Listeriosis, unspecified","Acetaminophen, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride"
+811,Babbette,O'Dunniom,17,Female,9/29/1992,"Laceration of superfic vn at shldr/up arm, right arm, subs",MEDROXYPROGESTERONE ACETATE
+812,Mildrid,Barkworth,72,Female,1/19/1999,Unsp abnormal cytological findings in specimens from vagina,CATTLE EPITHELIA
+813,Sabina,Dixsee,16,Female,1/1/1983,"Unspecified dislocation of unspecified radial head, sequela",Acetaminophen
+814,Hamish,Biggans,21,Male,4/20/1955,"Abrasion of unspecified part of neck, initial encounter",metolazone
+815,Shea,O'Heagertie,82,Female,11/24/1941,"Periprosth osteolysis of internal prosthetic joint, sequela",hydrochlorothiazide
+816,Wernher,Latham,78,Male,1/2/1945,"Foreign body in ear, unspecified ear, initial encounter",Potassium Cation
+817,Jerri,Roseburgh,101,Male,2/12/1904,Blister (nonthermal) of right elbow,Aspirin
+818,Suzanna,Selwyn,56,Female,7/26/1995,"Anaphylactic reaction due to peanuts, subsequent encounter",Linden
+819,Nate,Macellar,33,Male,2/1/1918,"Breakdown (mechanical) of int fix of vertebrae, sequela",Levothyroxine Sodium
+820,Diarmid,Goulbourn,12,Male,6/21/1954,"Toxic effect of phenol and phenol homologues, acc, init","Avobenzone, Homosalate, Octisalate, Octocrylene and Oxybenzone"
+821,Isidor,Ansty,83,Male,8/31/1959,"Path fx in oth disease, hip, unsp, subs for fx w nonunion","Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone"
+822,Warden,Bails,94,Male,9/23/2018,"Sprain of metatarsophalangeal joint of unsp toe(s), subs",TOMATO
+823,Angy,Feragh,77,Female,6/30/1900,"Unsp comp of fb acc left in body fol remov cath/pack, sqla",benzethonium chloride and lidocaine
+824,Robbyn,Kubacek,84,Female,6/4/1960,"Major laceration of inferior mesenteric artery, init encntr",Ibuprofen
+825,Chelsy,Gilliatt,29,Female,7/1/1971,Displaced fracture of medial malleolus of right tibia,captopril
+826,Cordie,Oman,107,Male,8/25/1994,Alcohol abuse with intoxication delirium,"Arnica montana, Calcarea fluorica, Calcarea phosphorica, Calendula officinalis, Graphites, Hydrofluoricum acidum, Phytolacca decandra, Sabina, Silicea, Thiosinaminum, Thuja occidentalis"
+827,Minda,Ledgeway,107,Female,11/26/1951,"Other secondary chronic gout, right wrist",sodium phosphate
+828,Trumaine,Temperley,71,Agender,5/17/1917,Other superficial bite of penis,"Avobenzone, Homosalate, Octisalate, Octocrylene, Oxybenzone"
+829,Margalo,Tuer,53,Female,9/11/2009,"Other osteonecrosis, right finger(s)",Pancrelipase
+830,Stillmann,Gumbrell,8,Male,11/29/1990,Calculus of bile duct w acute and chronic cholangitis w obst,Aluminum Zirconium Trichlorohydrex Gly
+831,Oralie,Rosiello,81,Female,6/8/1986,"Fall from motorized mobility scooter, initial encounter",Oat Smut
+832,Agace,Kildale,3,Female,8/19/2008,"Unsp fx upper end r rad, subs for opn fx type I/2 w malunion",West Sycamore
+833,Rhianna,Gouldie,33,Female,11/6/1956,"Major laceration of unsp internal jugular vein, subs encntr",rituximab
+834,Levi,Whardley,113,Male,2/13/2010,"Osteonecrosis in diseases classified elsewhere, thigh",Pyrite 8
+835,Candi,Aggott,69,Female,8/4/1908,Malignant neoplasm of other and unsp male genital organs,STRYCHNOS NUX-VOMICA SEED
+836,Gregoor,Swanton,90,Male,2/3/2009,"Burn unsp degree of unsp site unsp lower limb, except ank/ft",METOPROLOL TARTRATE
+837,Justin,Reye,114,Male,4/21/1957,"Toxic effect of fiberglass, assault",TALC
+838,Waneta,Barszczewski,40,Female,6/19/2000,"Placentitis, unspecified trimester, fetus 4",nevirapine
+839,Paulina,Bellany,53,Female,7/3/2007,"Disp fx of epiphy (separation) (upper) of l femr, 7thE",Trazodone Hydrochloride
+840,Aymer,Niccols,31,Male,5/13/1927,Unspecified injury of blood vessel of left index finger,Topiramate
+841,Ly,von Nassau,101,Male,8/15/1963,"Displ osteochon fx right patella, init for opn fx type I/2",Azithromycin Monohydrate
+842,Ulberto,Leeburne,67,Male,4/22/1912,Congenital pulmonary arteriovenous malformation,"Acetylcholine chloride, Dopamine, GABA, Octopamine, Serotonin, Taurine, Adenosinum cyclophosphoricum, Cerebrum (suis), Diencephalon (suis), Pineal gland (suis), Thalamus opticus (suis),"
+843,Sauveur,Stanfield,52,Male,11/13/1950,Intervertebral disc stenosis of neural canal,"Phenylephrine HCl, Witch hazel"
+844,Chiquia,Ayling,37,Female,11/10/1981,Malignant neoplasm of right orbit,SULFUR
+845,Ingemar,Butters,56,Male,8/15/1970,"Ped w convey injured in collision w nonmtr vehicle, unsp","Acetaminophen, guaifenesin, phenylephrine HCl"
+846,Kelcy,Wearden,51,Female,12/20/1982,"Displaced intartic fx r calcaneus, subs for fx w delay heal",Lidocaine Hydrochloride
+847,Ryley,Spier,102,Male,8/21/2021,"Partial placenta previa NOS or without hemor, unsp trimester",HYDROCODONE BITARTRATE AND ACETAMINOPHEN
+848,Hailee,Bennit,16,Female,1/22/1950,Prsn brd/alit a car injured in collision w van,atorvastatin calcium
+849,Wilton,Dagnan,16,Male,6/9/2008,Superficial foreign body of unspecified finger,"Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone"
+850,Madelyn,Berget,37,Female,2/1/1954,"Exposure to ignition of highly flammable material, subs",Acetaminophen
+851,Guendolen,Izakovitz,25,Female,12/29/1934,Ulnar collateral ligament sprain of right elbow,Oxygen
+852,Sidnee,Glinde,39,Male,12/28/1978,"Toxic effect of oth metals, accidental (unintentional), init",Phenobarbital
+853,Daniela,Allbon,98,Female,6/8/1989,Burn of first degree of buttock,Ramipril
+854,Cherida,Fray,86,Female,2/7/1935,Leptospirosis,PYRITHIONE ZINC
+855,Mirelle,Scardefield,89,Female,4/17/2012,Chikungunya virus disease,Diflorasone Diacetate
+856,Sheila-kathryn,O' Neligan,18,Female,12/21/1959,"Drown d/t being thrown ovrbrd by motion of fish boat, subs",BENZALKONIUM CHLORIDE
+857,Annis,Heindle,14,Female,3/10/2008,"Nondisp bicondylar fx l tibia, subs for clos fx w delay heal",DIPHENHYDRAMINE HCL
+858,Karolina,Turbitt,112,Bigender,4/26/2017,Burn of second degree of forearm,Tetracaine Hydrochloride
+859,Courtnay,Oxby,49,Male,8/19/1907,"Smith's fracture of left radius, subs for clos fx w malunion",Isoniazid
+860,Tiebold,Bulpitt,2,Male,5/11/1979,Failure in dosage during unsp surgical and medical care,TITANIUM DIOXIDE
+861,Arnoldo,Joseland,115,Male,6/19/1919,"Dislocation of interphalangeal joint of unsp great toe, subs",Minoxidil
+862,Morris,Vicar,18,Male,9/24/2009,"Disp fx of coronoid pro of unsp ulna, 7thN","Niacinamide, Adenosine"
+863,Igor,Normansell,24,Male,1/23/1986,Heat exposure on board watercraft,Botrytis cinerea
+864,Noah,Charlesworth,106,Male,2/28/1958,"Breakdown (mechanical) of cor art bypass graft, sequela",TITANIUM DIOXIDE
+865,Rafael,Dollard,112,Male,8/25/1929,Displaced fracture of unspecified tibial tuberosity,Nitrofurantion Macrocrystals
+866,Earl,Phinnis,41,Male,10/16/1979,"Merkel cell carcinoma of lower limb, including hip",Guaifenesin
+867,Florella,Kempson,102,Female,4/5/1920,Oth acute skin changes due to ultraviolet radiation,DOXOrubicin Hydrochloride
+868,Mel,Stollenbeck,12,Agender,5/1/1959,"Varicose veins of low extrm in pregnancy, third trimester",Acetaminophen
+869,Joshuah,Devoy,6,Genderqueer,11/14/2007,"Nondisp fx of dist phalanx of unsp less toe(s), 7thK",Desloratadine
+870,Marinna,Foxwell,6,Female,9/1/1961,"Unspecified disorder of tympanic membrane, left ear",Aluminum chlorohydrate
+871,Alexina,Benediktsson,74,Female,4/20/1947,"Nondisp transverse fx shaft of r ulna, 7thN",Ibuprofen
+872,Nigel,Ride,29,Agender,10/14/1938,"Commrcl fix-wing aircraft clsn injuring occupant, sequela",oxycodone hydrochloride
+873,Georgina,Balogun,106,Female,2/21/1940,"Unspecified fracture of head of unspecified femur, sequela",psyllium husk
+874,Susanetta,Buttwell,43,Female,6/11/1989,2-part displaced fracture of surgical neck of left humerus,Zinc Oxide
+875,Cheryl,Baumadier,39,Bigender,5/15/1974,Laceration without foreign body of scalp,Oxazepam
+876,Maybelle,Plane,116,Female,11/29/1998,"Discord with neighbors, lodgers and landlord",PYRIDOSTIGMINE BROMIDE
+877,Moyra,Jacomb,32,Female,7/4/1985,"Sprain of tarsal ligament of unspecified foot, sequela",Fluconazole
+878,Phoebe,Kyttor,67,Female,9/23/2007,"Other articular cartilage disorders, unspecified wrist","TRIBASIC CALCIUM PHOSPHATE, MATRICARIA RECUTITA, ARABICA COFFEE BEAN, ATROPA BELLADONNA, MAGNESIUM PHOSPHATE, DIBASIC TRIHYDRATE, SILICON DIOXIDE, and RHEUM OFFICINALE ROOT"
+879,Nevin,Hills,70,Male,2/13/1985,"Jump/div into natrl body of wtr strk surfc cause drown, sqla",zolpidem tartrate
+880,Athene,Gregorowicz,120,Female,2/18/1938,Nonvenereal syphilis,ETHYL ALCOHOL
+881,Kyla,Arpino,94,Female,3/14/1928,"Poisoning by butyrophen/thiothixen neuroleptc, undet, init",Verapamil Hydrochloride
+882,Liva,Hiner,72,Female,7/22/1955,"Laceration of ulnar artery at forarm lv, unsp arm, sequela",ATORVASTATIN CALCIUM
+883,Ricky,Hauxwell,110,Male,8/12/1909,"Oth fx shaft of l ulna, 7thH","OCTINOXATE, OXYBENZONE, OCTISALATE"
+884,Howard,Bleby,45,Male,5/7/1972,Non-pressure chronic ulcer of back limited to brkdwn skin,hydrocortisone and acetic acid
+885,Mason,Southon,87,Male,2/17/1954,"Toxic effect of aflatoxin, accidental (unintentional)",Captopril
+886,Winonah,Dovermann,19,Female,12/1/2009,"Displaced bicondylar fx r tibia, subs for clos fx w malunion",ATORVASTATIN CALCIUM
+887,Kelcey,Shattock,64,Female,8/17/1983,Injury of splenic vein,Octinoxate and Oxybenzone
+888,Brendan,Pollock,33,Bigender,8/9/1927,"Toxic effect of venom of tarantula, assault, subs encntr","Dextran, Hypromellose"
+889,Arline,Lyal,80,Female,10/12/1906,"Glaucoma secondary to eye trauma, bilateral, moderate stage",didanosine enteric-coated beadlets
+890,Curcio,Wooding,3,Male,11/17/1927,"Foreign body in cornea, right eye, subsequent encounter","TITANIUM DIOXIDE, OXYBENZONE, ZINC OXIDE, and OCTINOXATE"
+891,Mireielle,Anfrey,39,Female,7/7/2018,"Disp fx of prox phalanx of l less toe(s), 7thK",Maraviroc
+892,Sheilakathryn,Pitcaithly,29,Female,2/5/2004,Newborn affected by other abnormalities of membranes,divalproex sodium
+893,Lishe,Scranney,41,Female,4/5/1930,"Oth infective spondylopathies, sacr/sacrocygl region",Acetaminophen
+894,Alene,Napoleon,10,Female,10/15/1986,Laceration w/o foreign body of l idx fngr w/o damage to nail,zinc oxide
+895,Viviana,Goodinson,38,Female,6/1/1996,"Chronic gout due to renal impairment, vertebrae",Rosmarinus Lavandula
+896,Krispin,Camm,25,Male,11/7/1996,"Unsp traum displ spondylolysis of fourth cervcal vert, init",Esomeprazole magnesium
+897,Shae,Blackey,9,Female,1/27/1952,Aortic aneurysm and dissection,Esomeprazole magnesium
+898,Nikolaus,Grimestone,71,Male,5/3/1948,Intentional self-harm by paintball gun,MENTHOL
+899,Dilly,Simonetti,5,Male,3/21/1962,"Sedatv/hyp/anxiolytc abuse w intoxication, uncomplicated",Fluorouracil
+900,Minette,Benford,57,Female,3/5/1911,"Lac w/o fb of abd wall, r low q w/o penet perit cav, subs",risperidone
+901,Keen,Roscher,74,Male,2/8/1958,Displaced spiral fracture of shaft of unspecified fibula,Angelica Comp.
+902,Friederike,Kirby,0,Female,3/13/2019,Toxoplasmosis with other organ involvement,Olanzapine
+903,Pammie,Melbury,49,Female,7/23/2009,"Laceration of posterior tibial artery, unsp leg, subs encntr",Fludeoxyglucose F-18
+904,Rodger,Bain,73,Genderfluid,2/4/1958,Diabetes due to underlying condition w circulatory comp,Alcohol
+905,Abbey,McGunley,66,Male,2/10/1913,"Lac w/o fb of abd wall, left lower q w penet perit cav, init",HEPARIN SODIUM
+906,Gwenore,Lambkin,114,Genderqueer,10/10/1990,"Maternal care for excess fetal growth, third trimester, unsp",TITANIUM DIOXIDE
+907,Glennie,Pamplin,54,Female,9/14/1997,Inflammatory polyps of colon with complications,Eszopiclone
+908,Hope,Igoe,20,Female,7/30/2009,Primary respiratory tuberculosis,"Acetaminophen, Dextromethorphan HBr, Doxylamine succinate"
+909,Maurene,Sandiford,59,Female,3/2/2009,"Burn of respiratory tract, part unspecified, sequela",doxycycline
+910,Finley,Dessant,56,Male,7/3/2018,"Other rupture of muscle (nontraumatic), left hand",Amitriptyline Hydrochloride
+911,Tod,Line,91,Male,1/29/2005,"War operations involving oth dest arcrft, civilian, subs",kidney bean
+912,Darrick,Tibbs,14,Male,6/7/1911,"Traumatic arthropathy, elbow",Dimenhydrinate
+913,Noah,Purvess,108,Male,8/25/2019,"Burn of first degree of chest wall, subsequent encounter",ACETAMINOPHEN
+914,Maressa,Haddrill,0,Female,9/21/1988,Unspecified physeal fracture of left metatarsal,"Tabebuia impetiginosa, Uncaria tomentosa, Hypothalamus, Pituitary, Glandula suprarenalis, Nadidum, Lacticum acidum,"
+915,Melisse,Faber,120,Female,2/21/1992,"External constriction of left front wall of thorax, subs",BENZALKONIUM CHLORIDE
+916,Pattin,Lyosik,83,Genderfluid,9/1/2018,"Nondisp fx of med malleolus of r tibia, 7thQ",Aspirin
+917,Sal,Flavelle,112,Male,10/26/1924,"Stepmother, perpetrator of maltreatment and neglect",Atropa Belladonna and Drosera Rotundifolia and Polygala Senega Root and Prunus Laurocerasus Leaf and Rumex Crispus root and Verbascum Thapsus
+918,Patrice,Clapston,30,Female,5/5/1994,"Minor lacerat femor vein at hip and thi lev, right leg, subs",DIMETHICONE
+919,Alice,Bugs,70,Female,9/8/1944,"Asslt by push/place victim in front of moving object, sqla",Hydrocortisone
+920,Romola,Vallis,58,Female,2/2/1997,"Transient synovitis, right hand","Mineral Oil, White Petrolatum"
+921,Kassi,Dowey,99,Female,11/10/2013,Arteriovenous malformation of vessel of upper limb,QUETIAPINE FUMARATE
+922,Thurston,Jeffcoate,116,Male,9/18/1902,"Nondisp longitud fx r patella, init for opn fx type 3A/B/C",Clarithromycin
+923,Julio,Liddiatt,67,Male,11/25/1993,Other disorders of brain in diseases classified elsewhere,Cefazolin
+924,Franky,Cayette,15,Female,10/1/2013,"Inj muscle, fascia and tendon of prt biceps, left arm, init",simvastatin
+925,Aindrea,Sneath,17,Female,9/16/1911,Benign neoplasm of unspecified epididymis,"Acetaminophen, Dextromethorphan HBr, Guaifenesin, Phenylephrine HCl"
+926,Tammi,Kilfeder,26,Female,8/15/1964,"Presence of cardiac and vascular implant and graft, unsp",Haloperidol
+927,Nolan,Juste,20,Male,8/16/2019,"Street, highway and other paved roadways as place",ceftazidime
+928,Binky,Gatfield,112,Male,6/9/1960,Corrosion of unspecified degree of left lower leg,Benazepril Hydrochloride
+929,Elijah,Dart,8,Male,5/15/1982,Military operations involving fragments from weapons,Metolazone
+930,Honor,Gloucester,25,Female,2/27/1904,"Superficial foreign body of breast, unspecified breast",Ear Wax Removal Complete Kit
+931,Reinaldos,Atmore,28,Male,2/11/1944,"Caught, crush, jammed, or pinched betw stationry obj, subs",Ethyl Alcohol
+932,Herculie,Dimitriades,83,Male,3/28/1918,Other dislocation of right radial head,Hydrocortisone
+933,Hugh,Priddle,13,Male,11/24/1925,"Person outsd car inj in clsn w pk-up truck nontraf, sequela",Ampicillin
+934,Morly,Shand,95,Genderqueer,10/19/1927,"Corrosion of first degree of right knee, sequela",tretinoin
+935,Giorgi,Ickov,53,Male,12/1/1909,"Nondisp subtrochnt fx r femr, 7thE",IRBESARTAN
+936,Pascal,Vatini,97,Male,6/20/2010,"Path fx in neopltc disease, l foot, subs for fx w routn heal","octinoxate, octisalate"
+937,Dukey,Linger,53,Male,2/27/1979,"Other superficial bite of left middle finger, subs encntr",Citalopram Hydrobromide
+938,Claire,Fetterplace,101,Male,5/13/1916,"Synovial hypertrophy, not elsewhere classified, thigh",Fluocinonide
+939,Margeaux,Commuzzo,11,Genderqueer,2/2/1977,"Inj musc/tend peroneal grp at lower leg level, right leg",TURPENTINE
+940,Logan,Koschke,38,Male,8/5/1906,Postproc hematoma and seroma of a ms structure fol a proc,"Acetaminophen, Caffeine"
+941,Jordan,Assiter,64,Male,9/1/2001,"Displ commnt fx left patella, subs for clos fx w routn heal","DEXTROSE, SODIUM CHLORIDE, and POTASSIUM CHLORIDE"
+942,Sherilyn,Jiras,42,Non-binary,6/4/2011,"Driver of special industrial vehicle injured nontraf, init",Nabumetone
+943,Elbertine,Brightie,4,Female,7/8/2018,"Oth comp specific to multiple gestation, unsp trimester, oth",Dock Yellow
+944,Artus,Sorensen,73,Male,3/15/1905,Injury of nerves at shoulder and upper arm level,mupirocin
+945,Twyla,Matveiko,64,Female,12/19/1981,"Unspecified injury of unspecified renal artery, sequela",Quetiapine fumarate
+946,Lorilyn,MacDunlevy,49,Female,6/10/1976,Occup of 3-whl mv injured in collision w hv veh in traf,Dimenhydrinate
+947,Averell,Romaine,107,Male,3/18/1977,"Prsn brd/alit hv veh injured in clsn w nonmtr vehicle, init",Miconazole nitrate
+948,Artur,Cossins,85,Male,2/23/1999,"Traum subrac hem w LOC >24 hr w/o ret consc w surv, subs",Dimethicone
+949,Carla,Hancell,97,Bigender,5/8/1905,"Toxic effect of latex, undetermined, initial encounter",Probenecid
+950,Rona,McCallam,34,Female,9/1/1936,"Unsp adverse effect of drug or medicament, subs encntr",mefenamic acid
+951,Ingaborg,Hunnicutt,99,Female,11/14/2011,Unspecified ptosis of eyelid,Oxygen
+952,Hamlen,Radke,22,Male,12/7/1911,Driver of hv veh injured in nonclsn trnsp accident in traf,OCTINOXATE and TITANIUM DIOXIDE
+953,Nahum,Quinnet,10,Non-binary,1/8/1992,NIHSS score 41,"Titanium DIoxide, Zinc Oxide"
+954,Lilia,Kadd,102,Female,2/17/1937,"Underdosing of butyrophen/thiothixen neuroleptics, subs","Phenylephrine Hydrochloride, Guaifenesin"
+955,Rossie,Fardon,67,Male,6/2/1978,"Unsp fx l low leg, subs for opn fx type 3A/B/C w malunion","Aceticum Acidum, Alloxanum, Bovista, Carcinocinum, Helonias, Lycopodium, Phosphoricum Acidum, Phosphorus, Plumbum Met, Tarentula. Syzygium ,Terebinthiniae, Uranium Nit."
+956,Marchelle,Staite,69,Female,12/3/2009,"Nondisp trimalleol fx l low leg, init for opn fx type 3A/B/C",Nitrogen
+957,Dita,Bolf,39,Female,4/12/1997,"Lac w/o fb of unsp lesser toe(s) w/o damage to nail, sequela",Raloxifene hydrochloride
+958,Peg,Speachley,23,Female,10/1/1936,Cocaine abuse with other cocaine-induced disorder,isosorbide mononitrate
+959,Derrick,O'Reilly,26,Male,11/18/1939,"Displ oblique fx shaft of unsp rad, 7thD","OCTINOXATE, OCTISALATE, OXYBENZONE, and TITANIUM DIOXIDE"
+960,Nataniel,Rodgerson,37,Male,5/17/1964,"Type III traum spondylolysis of 7th cervcal vert, 7thB",POTASSIUM CHLORIDE
+961,Frayda,Deble,41,Female,12/13/1904,"Lacerat unsp musc/fasc/tend at thi lev, right thigh, init",Atorvastatin Calcium
+962,Randi,Lindl,116,Female,9/18/1901,Corneal ectasia,CETYLPYRIDINIUM CHLORIDE
+963,Kare,Iacopetti,6,Female,12/5/1973,"Corrosion of second degree of left scapular region, init",ESZOPICLONE
+964,Poul,Ranaghan,94,Male,4/9/1993,Rheumatoid myopathy with rheumatoid arthritis of right hip,Ibuprofen
+965,Sky,Bukowski,54,Male,2/18/2018,"Maternal care for Anti-A sensitization, first tri, unsp",tapentadol hydrochloride
+966,Alina,Elland,12,Female,5/8/2018,Complications and ill-defined descriptions of heart disease,Oxygen
+967,Devondra,Landreth,96,Female,5/12/1926,"Athscl unsp type bypass of the extrm w gangrene, bi legs",Sodium Fluoride
+968,Retha,Yuill,16,Female,3/25/2017,"Lac w fb of l bk wl of thorax w penet thoracic cavity, subs",Nicotine Polacrilex
+969,Kandace,Yoakley,9,Female,11/24/1907,"Corrosion of unsp degree of unsp upper arm, subs encntr",rhubarb
+970,Weber,Geistmann,32,Male,12/8/1981,"Lymphoblastic (diffuse) lymphoma, intrathoracic lymph nodes",Metformin hydrochloride
+971,Ashli,Riccardi,2,Female,7/24/1913,"Poisoning by hemostatic drug, undetermined, init encntr",Clarithromycin
+972,Cary,Walkley,0,Non-binary,12/7/1962,"Nondisp commnt fx shaft of unsp femr, 7thF",Human Immunoglobulin G
+973,Lanae,Pagan,104,Female,3/3/1971,"Osteopathy after poliomyelitis, unspecified hand",somatropin (rDNA origin)
+974,Shermy,Raitie,61,Bigender,11/22/1907,3-methylglutaconic aciduria,Diclofenac Sodium
+975,Janey,Palister,86,Female,1/19/1995,"Legal intervnt w unsp explosv, law enforc offl injured, init","BACITRACIN ZINC, NEOMYCIN SULFATE, POLYMYCIN B SULFATE"
+976,Paule,Jedrzejewski,4,Female,10/27/2020,"Toxic effect of smoke, accidental (unintentional), sequela","CALENDULA OFFICINALIS FLOWER, SAMBUCUS NIGRA FLOWER, ECHINACEA ANGUSTIFOLIA, THUJA OCCIDENTALIS, ARNICA MONTANA"
+977,Dacie,Ingerman,91,Female,4/27/1929,"Anaphylactic reaction due to unspecified food, subs encntr",methylphenidate
+978,Averyl,Chaney,58,Female,9/23/2010,"Coma scale, eyes open, never, 24+hrs",Prednisone
+979,Annaliese,Gebuhr,7,Female,6/23/1970,"Toxic effect of venom of ants, undetermined, sequela",TETRAHYDROZOLINE HYDROCHLORIDE
+980,Kenton,Webben,8,Polygender,10/30/1901,"Exposure to ignition of other clothing and apparel, sequela",Nifedipine
+981,Garner,Rosel,81,Male,10/25/1974,Chronic pansinusitis,Helium Oxygen
+982,Saul,Dougary,44,Male,6/11/1998,Corrosion of second degree of left thumb (nail),Bleomycin
+983,Onofredo,Horribine,28,Male,8/15/1953,"Path fx in neopltc dis, unsp femur, subs for fx w routn heal",BENZOYL PEROXIDE
+984,Charmain,Kochs,15,Female,8/5/1969,"Displ oblique fx shaft of l femr, 7thE",Naproxen
+985,Fidel,De Francesco,67,Male,11/1/1940,Laceration w/o fb of l little finger w/o damage to nail,"CAMPHOR, MENTHOL"
+986,Corabel,Cramphorn,60,Female,9/24/1965,"Pnctr w fb of abd wall, unsp q w penet perit cav, sequela",haloperidol
+987,Issiah,Parade,71,Male,8/19/2016,"Tox eff of unsp halgn deriv of aromat hydrocrb, asslt, sqla",Oxazepam
+988,Roxie,Dedrick,88,Female,5/13/2011,"Stress fracture, left radius, subs for fx w routn heal",ALCOHOL
+989,Christophorus,Burchett,59,Male,9/3/1900,"Laceration of brachial artery, unspecified side",Alcohol
+990,Claudius,Wix,51,Male,8/17/2015,"Displ commnt fx shaft of l tibia, 7thC",levothyroxine sodium
+991,Aylmer,Girardini,33,Male,3/9/2001,Blepharophimosis right lower eyelid,ETHYL ALCOHOL
+992,Abby,Guiu,51,Female,7/23/1913,Sexual abuse complicating childbirth,Amikacin Sulfate
+993,Herminia,Darth,1,Female,10/19/1942,Calculus of bile duct w/o cholangitis or cholecyst w/o obst,Xerac AC
+994,Krisha,Murgatroyd,83,Male,3/6/1954,"Ca in situ skin of left upper limb, including shoulder",Phenylephrine HCl
+995,Jill,Engelmann,2,Female,6/22/2012,"Maternal care for oth fetal problems, third trimester, oth","Acetaminophen, Diphenhydramine HCl"
+996,Giana,Newlands,9,Female,9/9/1993,Mechanical loosening of other internal prosthetic joint,Oxybutynin Chloride
+997,Hermine,Rochford,75,Female,9/7/1924,"Other subluxation of right shoulder joint, initial encounter","AVOBENZONE, OCTISALATE, OCTOCRYLENE"
+998,Rosa,Lathom,2,Female,5/8/1951,"Poisoning by unsp fibrin-affct drugs, self-harm, subs",Conchae Argentum
+999,Scarface,Watkiss,69,Male,2/24/1973,"Laceration of unsp msl/tnd at ank/ft level, unsp foot",follitropin
+1000,Hamlen,Cullinane,32,Polygender,2/28/1923,"Accident to, on or involving ski lift",Willow Black

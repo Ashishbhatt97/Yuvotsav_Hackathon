@@ -1,0 +1,37 @@
+year,drug_name,drug_type,January_sales,February_sales,March_sales,April_sales,May_sales,June_sales,July_sales,August_sales,September_sales,October_sales,November_sales,December_sales,total_Quantity,price,total_price
+2023,Paracetamol,Pain reliever,80,96,120,64,72,88,112,104,80,96,144,120,1152,10,11520
+2023,Azithromycin,Antibiotic,40,56,64,32,40,48,64,56,48,64,80,72,624,20,12480
+2023,Salbutamol,Inhaler,24,32,40,16,24,32,40,32,24,32,40,32,352,15,5280
+2023,Metformin,Diabetes,64,80,96,48,56,64,80,72,64,80,96,88,880,5,4400
+2023,Losartan,Blood pressure,32,40,48,24,32,40,48,40,32,40,48,40,464,8,3712
+2023,Ibuprofen,NSAID,80,96,120,64,72,88,112,104,80,96,144,120,1152,8,9216
+2023,Amoxicillin,Antibiotic,40,56,64,32,40,48,64,56,48,64,80,72,624,15,9360
+2023,Atorvastatin,Statins,24,32,40,16,24,32,40,32,24,32,40,32,352,20,7040
+2023,Ranitidine,H2 blocker,64,80,96,48,56,64,80,72,64,80,96,88,880,10,8800
+2023,Metoprolol,Beta blocker,32,40,48,24,32,40,48,40,32,40,48,40,464,12,5568
+2023,Lorazepam,Benzodiazepine,80,96,120,64,72,88,112,104,80,96,144,120,1152,18,20736
+2023,Clopidogrel,Antiplatelet agent,40,56,64,32,40,48,64,56,48,64,80,72,624,22,13728
+2023,Furosemide,Loop diuretic,24,32,40,16,24,32,40,32,24,32,40,32,352,10,3520
+2023,Tadalafil,PDE5 inhibitor,64,80,96,48,56,64,80,72,64,80,96,88,880,25,22000
+2023,Clozapine,Atypical antipsychotic,32,40,48,24,32,40,48,40,32,40,48,40,464,30,13920
+2023,Bupropion,Atypical antidepressant,80,96,120,64,72,88,112,104,80,96,144,120,1152,15,17280
+2023,Memantine,NMDA receptor antagonist,40,56,64,32,40,48,64,56,48,64,80,72,624,18,11232
+2023,Phenobarbital,Barbiturate,24,32,40,16,24,32,40,32,24,32,40,32,352,10,3520
+2023,Montelukast,Leukotriene receptor antagonist,64,80,96,48,56,64,80,72,64,80,96,88,880,8,7040
+2023,Celecoxib,NSAID,32,40,48,24,32,40,48,40,32,40,48,40,464,12,5568
+2023,Methylphenidate,Stimulant,80,96,120,64,72,88,112,104,80,96,144,120,1152,18,20736
+2023,Ondansetron,5-HT3 receptor antagonist,40,56,64,32,40,48,64,56,48,64,80,72,624,10,6240
+2023,Varenicline,Nicotinic receptor partial agonist,24,32,40,16,24,32,40,32,24,32,40,32,352,22,7744
+2023,Tiotropium,Muscarinic antagonist,64,80,96,48,56,64,80,72,64,80,96,88,880,15,13200
+2023,Baclofen,GABA B receptor agonist,32,40,48,24,32,40,48,40,32,40,48,40,464,18,8352
+2023,Levothyroxine,Thyroid hormone,80,96,120,64,72,88,112,104,80,96,144,120,1152,5,5760
+2023,Risperidone,Atypical antipsychotic,40,56,64,32,40,48,64,56,48,64,80,72,624,30,18720
+2023,Warfarin,Vitamin K antagonist,24,32,40,16,24,32,40,32,24,32,40,32,352,8,2816
+2023,Fluoxetine,SSRI antidepressant,64,80,96,48,56,64,80,72,64,80,96,88,880,12,10560
+2023,Pregabalin,Anticonvulsant,32,40,48,24,32,40,48,40,32,40,48,40,464,20,9280
+2023,Mirtazapine,Atypical antidepressant,80,96,120,64,72,88,112,104,80,96,144,120,1152,18,20736
+2023,Methotrexate,Chemotherapy agent,40,56,64,32,40,48,64,56,48,64,80,72,624,25,15600
+2023,Esomeprazole,Proton-pump inhibitor,24,32,40,16,24,32,40,32,24,32,40,32,352,15,5280
+2023,Hydrochlorothiazide,Thiazide diuretic,64,80,96,48,56,64,80,72,64,80,96,88,880,10,8800
+2023,Citalopram,SSRI antidepressant,32,40,48,24,32,40,48,40,32,40,48,40,464,12,5568
+2023,Lisinopril,ACE inhibitor,80,96,120,64,72,88,112,104,80,96,144,120,1152,8,9216

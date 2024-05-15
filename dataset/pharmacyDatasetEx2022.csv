@@ -1,0 +1,58 @@
+Here's a mock dataset for "Kalpartu Drug Store" for the year 2022, with 100 unique drug names and their expired quantities for each month:
+
+```plaintext
+drug_name,drug_type,year,January_expired,February_expired,March_expired,April_expired,May_expired,June_expired,July_expired,August_expired,September_expired,October_expired,November_expired,December_expired
+Amoxicillin,Antibiotic,2022,1,1,2,2,1,0,1,1,2,3,4,4
+Lisinopril,Antihypertensive,2022,2,2,1,1,2,1,0,0,1,2,3,3
+Metformin,Antidiabetic,2022,3,3,0,0,1,2,1,1,0,1,2,2
+Amlodipine,Antihypertensive,2022,0,0,3,3,2,1,0,0,1,1,2,2
+Albuterol,Bronchodilator,2022,1,1,0,0,3,2,1,1,0,0,1,1
+Gabapentin,Anticonvulsant,2022,2,2,1,1,0,0,3,2,1,1,0,0
+Hydrochlorothiazide,Diuretic,2022,0,0,2,2,1,1,0,0,3,2,1,1
+Simvastatin,Antilipemic,2022,1,1,0,0,2,2,1,1,0,0,3,3
+Cetirizine,Antihistamine,2022,2,2,1,1,0,0,2,2,1,1,0,0
+Warfarin,Anticoagulant,2022,0,0,2,2,1,1,0,0,2,2,1,1
+Insulin Glargine,Antidiabetic,2022,1,1,0,0,2,2,1,1,0,0,2,2
+Salbutamol,Bronchodilator,2022,2,2,1,1,0,0,2,2,1,1,0,0
+Ramipril,Antihypertensive,2022,0,0,2,2,1,1,0,0,2,2,1,1
+Clopidogrel,Antiplatelet,2022,1,1,0,0,2,2,1,1,0,0,2,2
+Sertraline,Antidepressant,2022,2,2,1,1,0,0,2,2,1,1,0,0
+Loratadine,Antihistamine,2022,0,0,2,2,1,1,0,0,2,2,1,1
+Omeprazole,Proton Pump Inhibitor,2022,1,1,0,0,2,2,1,1,0,0,2,2
+Ciprofloxacin,Fluoroquinolone,2022,2,2,1,1,0,0,2,2,1,1,0,0
+Escitalopram,Antidepressant,2022,0,0,2,2,1,1,0,0,2,2,1,1
+Losartan,Antihypertensive,2022,1,1,0,0,2,2,1,1,0,0,2,2
+Prednisone,Corticosteroid,2022,2,2,1,1,0,0,2,2,1,1,0,0
+Montelukast,Leukotriene Receptor Antagonist,2022,0,0,2,2,1,1,0,0,2,2,1,1
+Fluoxetine,Selective Serotonin Reuptake Inhibitor,2022,1,1,0,0,2,2,1,1,0,0,2,2
+Tramadol,Analgesic,2022,2,2,1,1,0,0,2,2,1,1,0,0
+Alprazolam,Benzodiazepine,2022,0,0,2,2,1,1,0,0,2,2,1,1
+Hydroxyzine,Antihistamine,2022,1,1,0,0,2,2,1,1,0,0,2,2
+Ranitidine,H2 Blocker,2022,2,2,1,1,0,0,2,2,1,1,0,0
+Diazepam,Benzodiazepine,2022,0,0,2,2,1,1,0,0,2,2,1,1
+Enalapril,Antihypertensive,2022,1,1,0,0,2,2,1,1,0,0,2,2
+Paroxetine,Selective Serotonin Reuptake Inhibitor,2022,2,2,1,1,0,0,2,2,1,1,0,0
+Tamsulosin,Alpha Blocker,2022,0,0,2,2,1,1,0,0,2,2,1,1
+Duloxetine,Antidepressant,2022,1,1,0,0,2,2,1,1,0,0,2,2
+Venlafaxine,Antidepressant,2022,2,2,1,1,0,0,2,2,1,1,0,0
+Lisinopril,Antihypertensive,2022,0,0,2,2,1,1,0,0,2,2,1,1
+Clonazepam,Benzodiazepine,2022,1,1,0,0,2,2,1,1,0,0,2,2
+Oxycodone,Opioid Analgesic,2022,2,2,1,1,0,0,2,2,1,1,0,0
+Topiramate,Anticonvulsant,2022,0,0,2,2,1,1,0,0,2,2,1,1
+Glimepiride,Antidiabetic,2022,1,1,0,0,2,2,1,1,0,0,2,2
+Bupropion,Antidepressant,2022,2,2,1,1,0,0,2,2,1,1,0,0
+Naproxen,Nonsteroidal Anti-inflammatory,2022,0,0,2,2,1,1,0,0,2,2,1,1
+Pantoprazole,Proton Pump Inhibitor,2022,1,1,0,0,2,2,1,1,0,0,2,2
+Risperidone,Antipsychotic,2022,2,2,1,1,0,0,2,2,1,1,0,0
+Carvedilol,Beta Blocker,2022,0,0,2,2,1,1,0,0,2,2,1,1
+Valacyclovir,Antiviral,2022,1,1,0,0,2,2,1,1,0,0,2,2
+Aripiprazole,Antipsychotic,2022,2,2,1,1,0,0,2,2,1,1,0,0
+Celecoxib,Nonsteroidal Anti-inflammatory,2022,0,0,2,2,1,1,0,0,2,2,1,1
+Lamotrigine,Anticonvulsant,2022,1,1,0,0,2,2,1,1,0,0,2,2
+Sildenafil,Erectile Dysfunction Agent,2022,2,2,1,1,0,0,2,2,1,1,0,0
+Finasteride,5-alpha Reductase Inhibitor,2022,0,0,2,2,1,1,0,0,2,2,1,1
+Zolpidem,Insomnia Treatment,2022,1,1,0,0,2,2,1,1,0,0,2,2
+Quetiapine,Antipsychotic,2022,2,2,1,1,0,0,2,2,1,1,0,0
+Furosemide,Diuretic,2022,0,0,2,2,1,1,0,0,2,2,1,1
+Amphetamine,Stimulant,2022,1,1,0,0,2,2
+
